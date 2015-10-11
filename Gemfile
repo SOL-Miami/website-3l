@@ -32,7 +32,44 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+
+# Frontend Gems
+gem 'autoprefixer-rails'
+gem 'font-awesome-sass', '~> 4.4.0'
+gem 'inline_svg'
+gem 'will_paginate', '~> 3.0.6'
+
+# Admin
+gem 'rails_admin', '~> 0.7.0'
+gem "wysiwyg-rails"
+
+# Server
+gem 'puma'
+gem 'rack-timeout'
+# gem 'decent_exposure'
+
+# File Upload
+gem "paperclip", "~> 4.3"
+
+# Form
+gem 'simple_form'
+
+# My Gems
+gem 'figaro'
+gem 'awesome_print', '~> 1.6.1'
+gem "nilify_blanks"
+
+# Heroku/Dokku
+gem 'rails_12factor'
+
+# For app renaming purposes
+gem 'rename'
+
+
 group :development, :test do
+  gem "better_errors"
+  gem 'habtm_generator', :group => :development
+
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
 
@@ -42,4 +79,3 @@ group :development, :test do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
-
