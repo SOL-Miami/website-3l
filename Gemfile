@@ -3,8 +3,6 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
-# Use postgresql as the database for Active Record
-gem 'pg'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -33,42 +31,46 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 
-# Frontend Gems
+# Layout / Views / Assets
+# gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 4.4.0'
 gem 'inline_svg'
-gem 'will_paginate', '~> 3.0.6'
+gem 'haml'
+gem 'simple_form'
 
 # Admin
 gem 'rails_admin', '~> 0.7.0'
+
+# Text Editor
 gem "wysiwyg-rails"
 
-# Server
+# Engine
 gem 'puma'
+
+# Database / Models
+gem 'pg'
+gem 'decent_exposure'
 gem 'rack-timeout'
-# gem 'decent_exposure'
 
 # File Upload
 gem "paperclip", "~> 4.3"
 
-# Form
-gem 'simple_form'
-
-# My Gems
+# Tools
 gem 'figaro'
 gem 'awesome_print', '~> 1.6.1'
-gem "nilify_blanks"
+# gem 'will_paginate', '~> 3.0.6'
 
 # Heroku/Dokku
 gem 'rails_12factor'
 
-# For app renaming purposes
-gem 'rename'
-
+# Third Party Services
+# gem 'airbrake'
 
 group :development, :test do
-  gem "better_errors"
-  gem 'habtm_generator', :group => :development
+  gem 'annotate'
+  gem 'better_errors'
+  gem 'binding_of_caller'
 
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
@@ -79,3 +81,5 @@ group :development, :test do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
+
+ruby '2.2.2'
