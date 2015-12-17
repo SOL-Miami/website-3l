@@ -1,0 +1,33 @@
+.col-sm-3.col-md-2.sidebar
+  %ul.nav.nav-sidebar
+    - if current_page?(users_dashboards_path)
+      %li.active
+        = link_to "Dashboard", users_dashboards_path
+    - else
+      %li
+        = link_to "Dashboard", users_dashboards_path
+    -# - if current_page?(users_personal_injuries_path)
+    -#   %li.active
+    -#     = link_to "Personal Injuries", users_personal_injuries_path
+    -# - else
+    -#   %li
+    -#     = link_to "Personal Injuries", users_personal_injuries_path
+
+  -# %ul.nav.nav-sidebar
+  -#   %li
+  -#     %a{:href => ""} Nav item
+  -#   %li
+  -#     %a{:href => ""} Nav item again
+  -#   %li
+  -#     %a{:href => ""} One more nav
+  -#   %li
+  -#     %a{:href => ""} Another nav item
+  -#   %li
+  -#     %a{:href => ""} More navigation
+  -# %ul.nav.nav-sidebar
+  -#   %li
+  -#     %a{:href => ""} Nav item again
+  -#   %li
+  -#     %a{:href => ""} One more nav
+  -#   %li
+  -#     %a{:href => ""} Another nav item

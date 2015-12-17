@@ -32,18 +32,15 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 # Layout / Views / Assets
-# gem 'bootstrap-sass', '~> 3.2.0'
+gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
-gem 'font-awesome-sass', '~> 4.4.0'
+gem 'font-awesome-sass'
 gem 'inline_svg'
 gem 'haml'
 gem 'simple_form'
 
-# Admin
-gem 'rails_admin', '~> 0.7.0'
-
 # Text Editor
-gem "wysiwyg-rails"
+gem 'wysiwyg-rails'
 
 # Engine
 gem 'puma'
@@ -52,6 +49,10 @@ gem 'puma'
 gem 'pg'
 gem 'decent_exposure'
 gem 'rack-timeout'
+gem 'friendly_id'
+
+# Security / Authentication / Authorize
+gem 'devise'
 
 # File Upload
 gem "paperclip", "~> 4.3"
@@ -65,7 +66,7 @@ gem 'awesome_print', '~> 1.6.1'
 gem 'rails_12factor'
 
 # Third Party Services
-# gem 'airbrake'
+gem 'airbrake'
 
 group :development, :test do
   gem 'annotate'

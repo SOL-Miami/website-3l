@@ -1,0 +1,22 @@
+!!!
+%html
+  %head
+    %meta{:charset => "utf-8"}
+    %meta{:content => "IE=Edge,chrome=1", "http-equiv" => "X-UA-Compatible"}
+    %meta{:content => "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no", :name => "viewport"}
+    %meta{:content => "", :name => "keywords"}
+    %meta{:content => "", :name => "description"}
+    %meta{:content => "markn.co", :name => "author"}
+    %title Live Love Laugh Conference
+    = csrf_meta_tags
+    = stylesheet_link_tag    'application-dash', media: 'all'
+    = javascript_include_tag 'application-dash'
+
+  %body{ class: "#{controller_name} #{action_name}", data: { controller: params[:controller], action: params[:action]} }
+
+    - if Rails.env.development?
+      = params
+
+    = yield
+
+    = javascript_include_tag 'application-dash-btm'
