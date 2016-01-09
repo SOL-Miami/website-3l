@@ -142,8 +142,8 @@
 
                                 <div class="jx-right-vertical-border">
                                     <div class="jx-date">
-                                        <div class="jx-slider-day">25</div>
-                                        <div class="jx-slider-month jx-uppercase">jan</div>
+                                        <div class="jx-slider-day">12</div>
+                                        <div class="jx-slider-month jx-uppercase">feb</div>
                                     </div>
                                 </div>
 
@@ -172,8 +172,8 @@
                                 </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date">
-                                            <div class="jx-slider-day">25</div>
-                                            <div class="jx-slider-month jx-uppercase">jan</div>
+                                            <div class="jx-slider-day">12</div>
+                                            <div class="jx-slider-month jx-uppercase">feb</div>
                                         </div>
                                     </div>
 
@@ -191,33 +191,42 @@
                                     <div class="jx-event-box jx-event-box-counter">
 
                                         <div class="jx-event-date">
-                                            <div class="jx-event-day">25<span>-27</span></div>
-                                            <div class="jx-event-month jx-uppercase">jan 2015</div>
+                                            <div class="jx-event-day">12<span>-13</span></div>
+                                            <div class="jx-event-month jx-uppercase">feb 2016</div>
                                         </div>
 
                                         <div class="jx-event-title-box">
-                                            <div class="jx-event-pretitle">2015 ANNUAL Conference</div>
+                                            <div class="jx-event-pretitle">2016 Live Love Laugh Annual Conference</div>
                                             <div class="jx-event-title">Wordpress and Hackers</div>
                                             <div class="jx-event-countdown">
                                             <div class="jx-countdown">
                                                 <div class="dsb-theme-wrapper countdown">
                                                 <div class="dsb-theme">
                                                     <div class="counter-wrapper">
+														
+														
+													<?php 	$now = new DateTime();
+															$future_date = new DateTime('2016-02-12 08:00:00');
+															$interval = $future_date->diff($now);
+													?> 
+
+													<!--<?php echo $interval->format("%a days, %h hours, %i minutes, %s seconds"); ?> -->
+														
                                                         <ul>
                                                             <li>
-                                                                <div class="days count">00</div>
+                                                                <div class="days count"><?php echo $interval->format("%a days"); ?> </div>
                                                                 <div class="textDays count-text">Days</div>
                                                             </li>
                                                             <li>
-                                                                <div class="hours count">00</div>
+                                                                <div class="hours count"><?php echo $interval->format("%h hours"); ?> </div>
                                                                 <div class="textHours count-text">Hours</div>
                                                             </li>
                                                             <li>
-                                                                <div class="minutes count">00</div>
+                                                                <div class="minutes count"><?php echo $interval->format("%i minutes"); ?> </div>
                                                                 <div class="textmins count-text">Mins</div>
                                                             </li>
                                                             <li>
-                                                                <div class="seconds count">00</div>
+                                                                <div class="seconds count"><?php echo $interval->format("%s seconds"); ?> </div>
                                                                 <div class="textSecs count-text">Secs</div>
                                                             </li>
                                                         </ul>
@@ -379,7 +388,7 @@
                                 <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                 <div class="jx-info-content">
                                     <div class="info-title">DATE</div>
-                                    <div class="info-description">25-27 Jan 2015</div>
+                                    <div class="info-description">12-13 Feb 2016</div>
                                 </div>
                             </li>
                             <!-- Item 01 -->
@@ -388,7 +397,7 @@
                                 <div class="jx-info-icon"><i class="line-icon icon-location"></i></div>
                                 <div class="jx-info-content">
                                     <div class="info-title">LOCATION</div>
-                                    <div class="info-description">45 Avenue - Buston Street, Romario Block</div>
+                                    <div class="info-description">2029 NW 87th Ave. Doral, Fl 33172</div>
                                 </div>
                             </li>
                             <!-- Item 02 -->
@@ -397,7 +406,7 @@
                                 <div class="jx-info-icon"><i class="line-icon icon-tag"></i></div>
                                 <div class="jx-info-content">
                                     <div class="info-title">TICKETS</div>
-                                    <div class="info-description">300 Tickets</div>
+                                    <div class="info-description">200 Tickets</div>
                                 </div>
                             </li>
                             <!-- Item 03 -->
@@ -406,7 +415,7 @@
                                 <div class="jx-info-icon"><i class="line-icon icon-megaphone"></i></div>
                                 <div class="jx-info-content">
                                     <div class="info-title">SPEAKERS</div>
-                                    <div class="info-description">130 Speakers</div>
+                                    <div class="info-description">9 Speakers</div>
                                 </div>
                             </li>
                             <!-- Item 04 -->
