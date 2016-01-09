@@ -1142,7 +1142,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 9:00</span> <i class="fa fa-microphone"></i> <span>Lovley John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Lovley John Doe</span></div>
 							<div class="title" data-control>Lovley rem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1252,12 +1252,12 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:01 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joey & Zuleika Torres</span></div>
+							<div class="title" data-control>Laugh</div>                        
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>Laugh description ... Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1273,6 +1273,7 @@
 					</div>
 					<!-- Left item Position -->
 					
+					<?php /*
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
@@ -1286,6 +1287,8 @@
 							<!-- Content -->
 						</div>							
 					</div>
+				*/ ?>
+				
 				</div>					
 				<!-- Item # 1 --> 
 			
