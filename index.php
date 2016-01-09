@@ -1148,7 +1148,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Lovley John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
 							<div class="title" data-control>Lovley rem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
