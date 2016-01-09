@@ -2268,7 +2268,7 @@
 	  </div>        
         <!-- EOF Price Table -->
         
-             	<?php /* Comment data not needed   
+ 
              	
              	
         <!-- BOF Countdown + Form -->
@@ -2324,7 +2324,7 @@
                         </div>
                         <!-- EOF Ticket Form -->			
 
-                    <div class="jx-countdown-box jx-default-bg jx-half-width right" data-time=" ">
+                    <div class="jx-countdown-box jx-default-bg jx-half-width right" data-time="12-Feb-2016 19:00">
                         <h1>HURRY UP!!</h1>
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                         
@@ -2364,7 +2364,7 @@
                     
                     </div>
                     <!-- EOF Countdown Form -->
-			*/ ?>
+
                 </div>
 			</div>
         <!-- EOF Countdown + Form -->
