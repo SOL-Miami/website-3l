@@ -259,7 +259,7 @@
                                     
                                     <div class="jx-event-title-box">
                                     	<div class="jx-event-pretitle">2016 ANNUAL Conference</div>
-                                        <div class="jx-event-title">lIVE lOVE lAUGH</div>
+                                        <div class="jx-event-title">LIVE LOVE LAUGH</div>
                                         <div class="jx-event-register">
                                   <?php # comment   	<form action="php/contact-process.php" id="contactForm-register-2" method="post"> ?>
                                         <form action="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" id="contactForm-register-2" method="post">
@@ -313,7 +313,10 @@
                         
                     </li>
                     <!--item 02 -->
+                    <?php /*	Commented all of this as I dont care for it to show up
                     
+                    
+													*         
                     <li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
                     
                     	<div class="jx-event-slide">                        	
@@ -375,6 +378,7 @@
                         
                     </li>
                     <!--item 02 -->
+                     */?>  
                     
                 </ul>
                 <!-- BOF Bottom Info Bar -->
