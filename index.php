@@ -96,12 +96,12 @@
                             <div id="jx-main-menu" class="main-menu">
                                 <ul>
                                     <li class="current"><a href="#home">Home</a></li>
-                                    <li><a href="#about">About</a></li>
+                                    <!--<li><a href="#about">About</a></li>-->
                                     <li><a href="#schedule">Schedule</a></li>
                                     <li><a href="#speakers">Speakers</a></li>
                                     <li><a href="#register">Register</a></li>
                                     <li><a href="#gallery">Gallery</a></li>
-                                    <li><a href="#sponsors">Sponsors</a></li> 
+                                    <!--<li><a href="#sponsors">Sponsors</a></li> -->
                                     <li><a href="#contacts">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -368,8 +368,8 @@
                                 </div>
                                 <div class="jx-right-vertical-border">
                                     <div class="jx-date">
-                                        <div class="jx-slider-day">25</div>
-                                        <div class="jx-slider-month jx-uppercase">jan</div>
+                                        <div class="jx-slider-day">12</div>
+                                        <div class="jx-slider-month jx-uppercase">feb</div>
                                     </div>
                                 </div>
                                 
@@ -445,7 +445,7 @@
                         <div class="jx-title-icon"><i class="line-icon icon-diamond"></i></div>
                         <div class="jx-title-border right"></div> 
                     </div>
-                    <div class="jx-title">LEARN MORE ABOUT iEVENT</div>
+                    <div class="jx-title">LEARN MORE ABOUT LIVE LOVE LAUGH</div>
                     <div class="jx-subtitle"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
                 </div>
                 <!-- Section Title -->
@@ -604,6 +604,10 @@
         </div>
 		<!-- EOF Our Team -->
 
+
+
+   	<?php /* Comment data not needed 
+
         <!-- BOF Counter Up -->        
         <div  class="jx-container container-no-margin jx-padding jx-grey-bg ">
             <div class='parallax-no-height jx-tint-black' style='background-image:url(http://janxcode.com/ievent/images/stock-3.jpg);'></div>
@@ -680,7 +684,7 @@
             </div>
 		</div>        
         <!-- EOF Counter Up --> 
-
+*/ ?>
         
         <!-- Schedule Tab-->
         <div id='schedule' class="jx-container container-no-margin jx-padding jx-grey-bg ">
@@ -708,18 +712,18 @@
 			<ul class="resp-tabs-list parenttab_1">
 			
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">25 Jan</div>
-					<div class="jx-tab-day jx-uppercase">Day 1</div>
+					<div class="jx-tab-date jx-uppercase">LIVE</div>
+					<div class="jx-tab-day jx-uppercase"></div>
 				</li>
 				
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">26 Jan</div>
-					<div class="jx-tab-day jx-uppercase">Day 2</div>
+					<div class="jx-tab-date jx-uppercase">LOVE</div>
+					<div class="jx-tab-day jx-uppercase"></div>
 				</li>  
 				
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">27 Jan</div>
-					<div class="jx-tab-day jx-uppercase">Day 3</div>
+					<div class="jx-tab-date jx-uppercase">LAUGH</div>
+					<div class="jx-tab-day jx-uppercase"></div>
 				</li>    
 			
 			</ul>
@@ -732,10 +736,10 @@
 				 <div id="ChildTab-1">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Conference 1</div></li>
-						<li><div class="jx-tab-title">Conference 2</div></li>
-						<li><div class="jx-tab-title">Conference 3</div></li>
-						<li><div class="jx-tab-title">Conference 4</div></li>                        
+						<li><div class="jx-tab-title">Workshop 1</div></li>
+						<li><div class="jx-tab-title">Workshop 2</div></li>
+						<li><div class="jx-tab-title">Workshop 3</div></li>
+						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                         
 					</ul>                            
 					<!-- EOF Child Tab Head -->
 					
@@ -1089,10 +1093,10 @@
 				 <div id="ChildTab-2">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Conference 1</div></li>
-						<li><div class="jx-tab-title">Conference 2</div></li>
-						<li><div class="jx-tab-title">Conference 3</div></li>
-						<li><div class="jx-tab-title">Conference 4</div></li>                        
+						<li><div class="jx-tab-title">Workshop 1</div></li>
+						<li><div class="jx-tab-title">Workshop 2</div></li>
+						<li><div class="jx-tab-title">Workshop 3</div></li>
+						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                       
 					</ul>                            
 					<!-- EOF Child Tab Head -->
 					
@@ -1446,10 +1450,10 @@
 				 <div id="ChildTab-3">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Conference 1</div></li>
-						<li><div class="jx-tab-title">Conference 2</div></li>
-						<li><div class="jx-tab-title">Conference 3</div></li>
-						<li><div class="jx-tab-title">Conference 4</div></li>                        
+						<li><div class="jx-tab-title">Workshop 1</div></li>
+						<li><div class="jx-tab-title">Workshop 2</div></li>
+						<li><div class="jx-tab-title">Workshop 3</div></li>
+						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                     
 					</ul>                            
 					<!-- EOF Child Tab Head -->
 					
@@ -1809,7 +1813,9 @@
 </div>
 			</div>
         <!-- EOF Schedule tab -->
-
+        
+        
+<?php /* Comment data not needed   
         <!-- Floor Plan -->
         <div  class="jx-container container-no-margin jx-padding  ">
 				
@@ -1970,7 +1976,8 @@
         </div>
         <!-- EOF Floor Plan -->
 
-        
+  
+
 		<!-- BOF MEDIA CENTER -->
         <div class="jx-container jx-padding jx-grey-bg">
         
@@ -2064,7 +2071,7 @@
             </div>        
         </div>
 		<!-- EOF MEDIA CENTER -->
-        
+   */ ?>     
 
         <!-- Price Table -->
         <div id='register' class="jx-container container-no-margin jx-padding jx-white-bg ">
@@ -2081,10 +2088,12 @@
                     <div class="jx-title-border right"></div> 
                     </div>
                     <div class="jx-title jx-uppercase">register</div>
-                    <div class="jx-subtitle"><p>Euismod, quis laoreet neque imperdiet. Proin ornare, orci eu mattis dignissim, mi mauris consectetur dui, at faucibus libero justo a dui. Sed facilisis pellentesque quam et blandit.</p></div>
+                    <div class="jx-subtitle"><p>Register online or register in the welcome center at Spring Of Life fellowship. Early bird registration  is open until January 10, 2016 and will get you a $10.00 discount. Please note that all online registrations have a convenience fee of $3.19. If you register at the welcome center you will not be charged the convenience fee. </p></div>
                     <!-- Section Title -->
                 </div>
                 <div class="jx-pricing-container">    
+					
+				<?php /* Comment data not needed
 					<div class="jx-pricing-switcher">
 						<p class="fieldset">
 							<input type="radio" name="duration-1" value="standard" id="standard-1" checked>
@@ -2093,6 +2102,8 @@
 							<label for="vip-1">VIP</label>
 							<span class="jx-switch"></span>						</p>
 					</div> 
+				*/ ?>
+					
 					<div class="jx-price-table">
 						<ul class="jx-pricing-list jx-bounce-invert">
 	
@@ -2101,8 +2112,8 @@
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">149<span>.99</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Basic</div>            
+                                            <div class="jx-price">40<span>.00</span></div>            
+                                            <div class="jx-package-name jx-uppercase">Early Bird</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2115,8 +2126,8 @@
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
-                                            <div class="jx-price">255<span>.99</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Basic</div>            
+                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-package-name jx-uppercase">Regular Registration</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2137,8 +2148,8 @@
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">209<span>.99</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Standard</div>            
+                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-package-name jx-uppercase">Regular Registration</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2151,8 +2162,8 @@
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
-                                            <div class="jx-price">445<span>.99</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Standard</div>            
+                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-package-name jx-uppercase">Regular Registration</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2167,6 +2178,8 @@
                             </li>
                             
                             <!-- Item 1 -->
+                
+    				<?php /* Comment data not needed            
                 
                             <li>
                                 <ul class="jx-pricing-wrapper">
@@ -2201,8 +2214,12 @@
                                 </ul>
                                 <!-- .jx-pricing-wrapper -->
                             </li>
+                        
                             
                             <!-- Item 1 -->
+                             
+                            */ ?>
+                            
                         </ul>
 					</div>
 				</div>
@@ -2210,7 +2227,9 @@
 	  </div>        
         <!-- EOF Price Table -->
         
-        
+             	<?php /* Comment data not needed   
+             	
+             	
         <!-- BOF Countdown + Form -->
        	<div  class="jx-container container-no-margin   jx-countdown-form">
 				<div class='parallax-no-height' style='background-image:url(http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_24.jpg);'></div>
@@ -2304,7 +2323,7 @@
                     
                     </div>
                     <!-- EOF Countdown Form -->
-			
+			*/ ?>
                 </div>
 			</div>
         <!-- EOF Countdown + Form -->
@@ -2343,7 +2362,7 @@
                 <div class="jx-grid-item"> 
                     
                     <div class="jx-date-box">
-                        <div class="jx-date">25 Jan</div>
+                        <div class="jx-date">12 Feb</div>
                         <div class="jx-day">Day 1</div>
                     </div>
                                             
@@ -2396,7 +2415,7 @@
                 <div class="jx-grid-item"> 
                     
                     <div class="jx-date-box">
-                        <div class="jx-date">26 Jan</div>
+                        <div class="jx-date">13 Feb</div>
                         <div class="jx-day">Day 2</div>
                     </div>
                                             
@@ -2435,6 +2454,10 @@
                     </div>                        
                 </div>
                 
+
+
+
+         	<?php /* Comment data not needed              
                 <div class="jx-grid-item"> 
                     
                     <div class="jx-date-box">
@@ -2443,6 +2466,8 @@
                     </div>
                                             
                 </div>
+        
+        */ ?>
                 
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
@@ -2547,6 +2572,12 @@
 			</div>
         <!-- EOF Testimonial-->
         
+        
+        
+         	<?php /* Comment data not needed 
+         	
+         	
+         	      
         <!-- Sponsor Logo -->
         <div id='sponsors' class="jx-container container-no-margin jx-padding jx-white-bg ">
 				
@@ -2580,19 +2611,21 @@
             </div>
         </div>
         <!-- EOF Sponsor Logo -->
-
+		
+		*/ ?>
+        
         <!-- Google Map -->
         <div class="jx-container">
 				<div class="container">
 					<div class="jx-venue-box">
 					
-					<div class="jx-hotel-name jx-uppercase">MAriot Hotel, Browadway</div>
+					<div class="jx-hotel-name jx-uppercase">Spring Of Life Fellowship</div>
 					
 					<div class="jx-venue-address">
 						<div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Address</div>
-						<div class="jx-address-1">339 Marina Street, New York, NY 10001</div>
-						<div class="jx-address-2">1 987 586-45432</div>
-						<div class="jx-address-3">4.9 mi / 7.9 km from Downtown</div>
+						<div class="jx-address-1">2029 NW 87 Ave, Doral, Fl 33172</div>
+						<div class="jx-address-2">305.597.4440</div>
+						<div class="jx-address-3"></div>
 					</div>
 					</div>
 				</div>
@@ -2611,8 +2644,8 @@
 							<div class="jx-location-event">
 								<i class="line-icon icon-location"></i>
 								<div class="jx-info">
-									<div class="jx-bar-head">Mariot Hotel</div>
-									<div class="jx-bar-title">Barrio la Venera, 25</div>
+									<div class="jx-bar-head">Spring Of Life Fellowship</div>
+									<div class="jx-bar-title">Doral, Fl</div>
 								</div>
 							</div>
 						</li>
@@ -2620,11 +2653,13 @@
 							<div class="jx-hotline-event">
 								<i class="line-icon icon-globe"></i>
 								<div class="jx-info">
-									<div class="jx-bar-head">80081 80121</div>
-									<div class="jx-bar-title">support@ievent.com</div>
+									<div class="jx-bar-head">2029 NW 87 Ave, Doral, Fl 33172</div>
+									<div class="jx-bar-title">support@solmiami.org</div>
 								</div>
 							</div>
 						</li>                
+						<?php /* Comment data not needed
+						
 						<li class="one-third columns">
 							<div class="jx-subscribe-event">
 								<h2>Subscribe To Newsletter</h2>
@@ -2639,6 +2674,7 @@
 								</form>
 							</div>
 						</li>
+						*/ ?>
 					</ul>                
 				</div>        
 			</div>
@@ -2653,7 +2689,14 @@
         
         <div class="jx-footer-widget">        
         	<div class="container">        	
+        
+        	<?php /* Comment data not needed
+            
+            
                     <div class="four columns">
+		
+		
+		
 					<div class="jx-footer-logo"><img src="http://ievent.janxcode.com/wp-content/themes/ievent/framework/images/logo.png" alt="iEvent" class="logo" /></div>
 					<div class="jx-footersection-widget"><div id="text-3" class="widget widget_text">			<div class="textwidget">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque. </div>
 		</div></div>                    
@@ -2695,22 +2738,24 @@
         </div>
 		<!-- EOF Widgets -->		
         
+        */ ?>
+        
         <div class="jx-post-footer">        
         	<div class="container">              
                          <div class="jx-footer-social">
                 <ul>
                                         <li><a href="http://www.facebook.com/ievent"><i class="fa fa-facebook"></i></a></li>
                                                             <li><a href="http://www.twitter.com/ievent"><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href="http://www.youtube.com/ievent"><i class="fa fa-youtube"></i></a></li>
-                                                            <li><a href="http://www.googleplus.com/ievent"><i class="fa fa-google-plus"></i></a></li>
-                                                            <li><a href="http://www.dribbble.com/ievent"><i class="fa fa-dribbble"></i></a></li>
+                                                            <li><a href="http://www.youtube.com/ievent"><i class="fa fa-youtube"></i></a></li>-->
+                                                           <!-- <li><a href="http://www.googleplus.com/ievent"><i class="fa fa-google-plus"></i></a></li>-->
+                                                           <!-- <li><a href="http://www.dribbble.com/ievent"><i class="fa fa-dribbble"></i></a></li>-->
                                                             <li><a href="http://www.instagram.com/ievent"><i class="fa fa-instagram"></i></a></li>
-                                                            <li><a href="http://www.pinterest.com/ievent"><i class="fa fa-pinterest"></i></a></li>
-                                                            <li><a href="http://www.flickr.com/ievent"><i class="fa fa-flickr"></i></a></li>
+                                                          <!--  <li><a href="http://www.pinterest.com/ievent"><i class="fa fa-pinterest"></i></a></li>-->
+                                                            <li><a href="http://www.flickr.com/ievent"><i class="fa fa-flickr"></i></a></li>-->
                                     </ul>
             </div>
                         <div class="jx-footer-copyright">
-                Copyrights &copy; 2014 - Design by <a href="">iEvent</a>
+                Copyrights &copy; 2016 - <a href="http://www.solmiami.org/#!marriage-groups/c1xii">Spring Of Life Fellowship</a>
             </div>
         </div>
         </div>  
