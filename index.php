@@ -434,7 +434,7 @@
     <!-- BOF Main Content -->
     <div role="main" class="main">
                         
-    
+ <?php /*   
         <!-- BOF Services Box -->
        	<div id="about" class="jx-container jx-padding">
         	
@@ -489,7 +489,7 @@
             </div>
             <!-- EOF Servicebox --> 
                  
-                            
+                        
             
             </div>
             <!-- EOF container -->
@@ -497,7 +497,11 @@
             
         </div>                
 		<!-- EOF Services Box -->
-
+  */ ?>  
+  
+  
+  
+  
 		<!-- BOF Our Team -->
         <div id='speakers' class="jx-container container-no-margin jx-padding jx-grey-bg ">
                         <!-- Background Image -->
@@ -2152,7 +2156,23 @@
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-price">
+                                            
+                                            
+                                            							<div class="jx-event-slide">                        	
+															<div class="jx-slider-content">
+																<div class="container">
+																	<div class="jx-event-box">
+																		<div class="jx-event-play">
+																			<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
+																		</div>
+																	</div> 
+																</div>    
+															 </div>
+														</div>            	            
+							
+                                            
+                                            </div>            
                                             <div class="jx-package-name jx-uppercase">Register</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
@@ -2224,53 +2244,7 @@
                             
                             <!-- Item 1 -->
                              
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             													<li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
-														<div class="jx-event-slide">                        	
-															<div class="jx-slider-content">
-																<div class="container">
-																	<div class="jx-event-box">
-																		<div class="jx-event-play">
-																			<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
-																		</div>
-																	</div> 
-																</div>    
-															 </div>
-														</div>            	            
-													</li>
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                            
+          
                             
                         </ul>
 					</div>
