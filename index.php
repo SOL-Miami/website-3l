@@ -102,7 +102,7 @@
                                     <li><a href="#register">Register</a></li>
                                     <li><a href="#gallery">Gallery</a></li>
                                     <!--<li><a href="#sponsors">Sponsors</a></li> -->
-                                    <li><a href="#contacts">Contact Us</a></li>
+                                    <!--<li><a href="#contacts">Contact Us</a></li> -->
                                 </ul>
                             </div>
                             
@@ -712,19 +712,22 @@
 			<ul class="resp-tabs-list parenttab_1">
 			
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">LIVE</div>
-					<div class="jx-tab-day jx-uppercase"></div>
+					<div class="jx-tab-date jx-uppercase">Feb</div>
+					<div class="jx-tab-day jx-uppercase">12</div>
 				</li>
 				
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">LOVE</div>
-					<div class="jx-tab-day jx-uppercase"></div>
+					<div class="jx-tab-date jx-uppercase">Feb</div>
+					<div class="jx-tab-day jx-uppercase">13</div>
 				</li>  
+				
+				<?php /* Comment data not needed   
 				
 				<li class="resp-tab-item">
 					<div class="jx-tab-date jx-uppercase">LAUGH</div>
 					<div class="jx-tab-day jx-uppercase"></div>
 				</li>    
+				*/ ?>
 			
 			</ul>
 			
@@ -2127,7 +2130,7 @@
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
                                             <div class="jx-price">50<span>.00</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Regular Registration</div>            
+                                            <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2140,7 +2143,42 @@
                                 </ul>
                                 <!-- .jx-pricing-wrapper -->
                             </li>
-                            
+                        
+                        
+                        
+                          <li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
+                    
+                    	<div class="jx-event-slide">                        	
+                            <div class="jx-slider-content">
+                            	<div class="container">
+                                    <div class="jx-event-box">
+                                        <div class="jx-event-play">
+                                            <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
+                                        </div>
+                                        <div class="jx-event-title-box">
+                                            <div class="jx-event-pretitle">2015 Live Love Laugh Tease</div>
+                                            <div class="jx-event-title">Spring Of Life Fellowship</div>
+                                            <div class="jx-event-location">Doral, Florida</div>
+                                        </div>
+                                    
+                                    </div> 
+                                </div>    
+                                    <div class="jx-right-vertical-border">
+                                        <div class="jx-date">
+                                            <div class="jx-slider-day">25</div>
+                                            <div class="jx-slider-month jx-uppercase">jan</div>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                    	</div>            	            
+                        
+                    </li>
+                        
+                        
+                        
+                        
+                        <?php /* Comment data not needed       
                             <!-- Item 1 -->
                         
                             <li>
@@ -2149,7 +2187,7 @@
                                         
                                         <div class="one-third columns jx-price-item">            
                                             <div class="jx-price">50<span>.00</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Regular Registration</div>            
+                                            <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2163,7 +2201,7 @@
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
                                             <div class="jx-price">50<span>.00</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Regular Registration</div>            
+                                            <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2179,15 +2217,15 @@
                             
                             <!-- Item 1 -->
                 
-    				<?php /* Comment data not needed            
+    				         */ ?>
                 
                             <li>
                                 <ul class="jx-pricing-wrapper">
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">349<span>.99</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Premium</div>            
+                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2200,8 +2238,8 @@
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
-                                            <div class="jx-price">669<span>.99</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Premium</div>            
+                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2218,7 +2256,7 @@
                             
                             <!-- Item 1 -->
                              
-                            */ ?>
+                            
                             
                         </ul>
 					</div>
@@ -2362,8 +2400,8 @@
                 <div class="jx-grid-item"> 
                     
                     <div class="jx-date-box">
-                        <div class="jx-date">12 Feb</div>
-                        <div class="jx-day">Day 1</div>
+                        <div class="jx-date">LIVE</div>
+                        <div class="jx-day"></div>
                     </div>
                                             
                 </div>
@@ -2415,8 +2453,8 @@
                 <div class="jx-grid-item"> 
                     
                     <div class="jx-date-box">
-                        <div class="jx-date">13 Feb</div>
-                        <div class="jx-day">Day 2</div>
+                        <div class="jx-date">LOVE</div>
+                        <div class="jx-day"></div>
                     </div>
                                             
                 </div>
@@ -2455,19 +2493,15 @@
                 </div>
                 
 
-
-
-         	<?php /* Comment data not needed              
                 <div class="jx-grid-item"> 
                     
                     <div class="jx-date-box">
-                        <div class="jx-date">27 Jan</div>
-                        <div class="jx-day">Day 3</div>
+                        <div class="jx-date">Laugh</div>
+                        <div class="jx-day"></div>
                     </div>
                                             
                 </div>
         
-        */ ?>
                 
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
@@ -2653,7 +2687,7 @@
 							<div class="jx-hotline-event">
 								<i class="line-icon icon-globe"></i>
 								<div class="jx-info">
-									<div class="jx-bar-head">2029 NW 87 Ave, Doral, Fl 33172</div>
+									<div class="jx-bar-head">2029 NW 87 Ave</div>
 									<div class="jx-bar-title">support@solmiami.org</div>
 								</div>
 							</div>
@@ -2746,12 +2780,12 @@
                 <ul>
                                         <li><a href="http://www.facebook.com/ievent"><i class="fa fa-facebook"></i></a></li>
                                                             <li><a href="http://www.twitter.com/ievent"><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href="http://www.youtube.com/ievent"><i class="fa fa-youtube"></i></a></li>-->
-                                                           <!-- <li><a href="http://www.googleplus.com/ievent"><i class="fa fa-google-plus"></i></a></li>-->
-                                                           <!-- <li><a href="http://www.dribbble.com/ievent"><i class="fa fa-dribbble"></i></a></li>-->
+                                                           <!-- <li><a href="http://www.youtube.com/ievent"><i class="fa fa-youtube"></i></a></li>-->
+                                                           <!-- <li><a href="http://www.googleplus.com/ievent"><i class="fa fa-google-plus"></i></a></li> -->
+                                                           <!-- <li><a href="http://www.dribbble.com/ievent"><i class="fa fa-dribbble"></i></a></li> -->
                                                             <li><a href="http://www.instagram.com/ievent"><i class="fa fa-instagram"></i></a></li>
-                                                          <!--  <li><a href="http://www.pinterest.com/ievent"><i class="fa fa-pinterest"></i></a></li>-->
-                                                            <li><a href="http://www.flickr.com/ievent"><i class="fa fa-flickr"></i></a></li>-->
+                                                          <!--  <li><a href="http://www.pinterest.com/ievent"><i class="fa fa-pinterest"></i></a></li> -->
+                                                          <!--  <li><a href="http://www.flickr.com/ievent"><i class="fa fa-flickr"></i></a></li> -->
                                     </ul>
             </div>
                         <div class="jx-footer-copyright">
