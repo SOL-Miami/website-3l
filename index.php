@@ -2664,25 +2664,41 @@
                     	<div class="dsb-theme-wrapper countdown">
                         <div class="dsb-theme">
                             <div class="counter-wrapper">
-                                <ul>
-                                    <li>
-                                        <div class="days count">00</div>
-                                        <div class="textDays count-text">Days</div>
-                                    </li>
-                                    <li>
-                                        <div class="hours count">00</div>
-                                        <div class="textHours count-text">Hours</div>
-                                    </li>
-                                    <li>
-                                        <div class="minutes count">00</div>
-                                        <div class="textmins count-text">Mins</div>
-                                    </li>
-                                    <li>
-                                        <div class="seconds count">00</div>
-                                        <div class="textSecs count-text">Secs</div>
-                                    </li>
-                                </ul>
-                                <div class="jC-clear"></div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            	<?php 	
+														$now = new DateTime();
+														$future_date = new DateTime('2011-05-11 12:00:00');
+														$interval = $future_date->diff($now);
+														
+												?>
+														
+                                                        <ul>
+                                                            <li>
+                                                                <div class="days count"><?php echo $interval->format("%a");?></div>
+                                                                <div class="textDays count-text">Days</div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="hours count"><?php echo $interval->format("%h");?></div>
+                                                                <div class="textHours count-text">Hours</div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="minutes count"><?php echo $interval->format("%i");?></div>
+                                                                <div class="textmins count-text">Mins</div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="seconds count"><?php echo $interval->format("%s");?></div>
+                                                                <div class="textSecs count-text">Secs HERE</div>
+                                                            </li>
+                                                        </ul>
+                            
+                          
+                               <div class="jC-clear"></div>
                             </div>
 
                         </div>
