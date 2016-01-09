@@ -1208,7 +1208,7 @@
 								
 				<!-- Item # 1 --> 
 			
-			
+			<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt=""></div>
@@ -1220,7 +1220,7 @@
 					
 						<div data-accordion class="head ">
 							<div class="date"><i class="fa fa-clock-o"></i> <span>11:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Am I Laughing yet Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="title" data-control>xx Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -1230,6 +1230,9 @@
 						</div>							
 					</div>
 				</div>					
+				
+				*/ ?>
+				
 				<!-- Item # 1 --> 
 			
 </div>
@@ -1249,7 +1252,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:01 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1273,7 +1276,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:02 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1303,7 +1306,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:03 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1327,7 +1330,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:04 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1351,7 +1354,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:05 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1381,7 +1384,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:06 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1405,7 +1408,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:07 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1429,7 +1432,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:08 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1453,7 +1456,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:09 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
