@@ -1119,9 +1119,9 @@
 				 <div id="ChildTab-2">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Workshop 1</div></li>
-						<li><div class="jx-tab-title">Workshop 2</div></li>
-						<li><div class="jx-tab-title">Workshop 3</div></li>
+						<!--<li><div class="jx-tab-title">Live</div></li>-->
+						<li><div class="jx-tab-title">Love</div></li>
+						<li><div class="jx-tab-title">Laugh</div></li>
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                       
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -1142,8 +1142,8 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 9:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 9:00</span> <i class="fa fa-microphone"></i> <span>Lovley John Doe</span></div>
+							<div class="title" data-control>Lovley rem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -1166,7 +1166,7 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>9:30 - 10:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span>9:30 - 10:00</span> <i class="fa fa-microphone"></i> <span>Livley John Doe</span></div>
 							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
@@ -1179,7 +1179,7 @@
 				</div>					
 				<!-- Item # 1 --> 
 			
-			
+			<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-3.jpg" alt=""></div>
@@ -1200,7 +1200,9 @@
 							<!-- Content -->
 						</div>							
 					</div>
-				</div>					
+				</div>
+				*/ ?> 
+								
 				<!-- Item # 1 --> 
 			
 			
