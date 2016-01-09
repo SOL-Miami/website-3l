@@ -2151,10 +2151,10 @@
                         
                        
                        
-                           <!-- <li.myclass {display: inline-block;} >-->
-                           <<li>
+                           <!-- <li.myclass {display: inline-block;} > -->
+                           <li>
                                 <ul class="jx-pricing-wrapper">
-                                    <li data-type="standard" class="is-visible" >
+                                    <li.myclass {display: inline-block;} data-type="standard" class="is-visible" >
 										         <div class="one-third columns jx-price-item">   
 										
 										<div class="jx-event-slide">                        	
