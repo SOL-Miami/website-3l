@@ -2334,15 +2334,15 @@
                                 <div class="counter-wrapper">
                                     <ul>
                                         <li>
-                                            <div class="days count">00</div>
+                                            <div class="days count">30</div>
                                             <div class="textDays count-text">Days</div>
                                         </li>
                                         <li>
-                                            <div class="hours count">00</div>
+                                            <div class="hours count">02</div>
                                             <div class="textHours count-text">Hours</div>
                                         </li>
                                         <li>
-                                            <div class="minutes count">00</div>
+                                            <div class="minutes count">04</div>
                                             <div class="textmins count-text">Mins</div>
                                         </li>
                                         <li>
