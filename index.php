@@ -2146,7 +2146,7 @@
                         
                         
                         
-                          <li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
+                 <li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
                     
                     	<div class="jx-event-slide">                        	
                             <div class="jx-slider-content">
@@ -2155,22 +2155,9 @@
                                         <div class="jx-event-play">
                                             <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
                                         </div>
-                                        <div class="jx-event-title-box">
-                                            <div class="jx-event-pretitle">2015 Live Love Laugh Tease</div>
-                                            <div class="jx-event-title">Spring Of Life Fellowship</div>
-                                            <div class="jx-event-location">Doral, Florida</div>
-                                        </div>
-                                    
                                     </div> 
                                 </div>    
-                                    <div class="jx-right-vertical-border">
-                                        <div class="jx-date">
-                                            <div class="jx-slider-day">25</div>
-                                            <div class="jx-slider-month jx-uppercase">jan</div>
-                                        </div>
-                                    </div>
-                                
-                            </div>
+                             </div>
                     	</div>            	            
                         
                     </li>
