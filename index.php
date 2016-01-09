@@ -2149,22 +2149,32 @@
                             </li>
                         
                         
-                        
-                        
-                        		<div class="jx-event-slide">                        	
-															<div class="jx-slider-content">
-																<div class="container">
-																	<div class="jx-event-box">
-																		<div class="jx-event-play">
-																			<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
-																		</div>
-																	</div> 
-																</div>    
-															 </div>
-														</div>            	            
+                       
+                       
+                            <li>
+                                <ul class="jx-pricing-wrapper">
+                                    <li data-type="standard" class="is-visible">
+                                        
+											<div class="jx-event-slide">                        	
+												<div class="jx-slider-content">
+													<div class="container">
+														<div class="jx-event-box">
+															<div class="jx-event-play">
+																<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
+															</div>
+														</div> 
+													</div>    
+												 </div>
+											</div>        
+									</li>
+                                </ul>
+                                <!-- .jx-pricing-wrapper -->
+                            </li>
                         
     
-    <?php /*
+    <?php /*          
+                                          
+
                             <!-- Item 1 -->
                             <li>
                                 <ul class="jx-pricing-wrapper">
