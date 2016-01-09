@@ -7,7 +7,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>iEVENT | Home</title>
+	<title>Live.Love.Laugh.2016</title>
 	<meta name="keywords" content="HTML5 Template">
     <meta name="description" content="Vectus HTML5 Template - v1.0">
 	<meta name="author" content="janxcode.com">
@@ -2156,7 +2156,7 @@
                                     <li.myclass {display: inline-block;} data-type="standard" class="is-visible" >
 										<div class="jx-event-slide">                        	
 												<div class="jx-slider-content">
-															<div >
+															<div class="jx-event-play">
 																<a href="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
 															</div>
 												 </div>
