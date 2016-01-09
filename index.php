@@ -564,6 +564,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         </div>
                     </div>			
                     <!-- Item -->
+                    <?php /*
                                 
                     <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-8-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-8" />
@@ -619,7 +620,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         </div>
                     </div>			
                     <!-- Item -->
-                    
+                    */ ?>
                 </div>
             </div>
         </div>
