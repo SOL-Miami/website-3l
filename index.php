@@ -226,7 +226,7 @@
                                                             </li>
                                                             <li>
                                                                 <div class="seconds count"><?php echo $interval->format("%s");?></div>
-                                                                <div class="textSecs count-text">Secs HERE</div>
+                                                                <div class="textSecs count-text">Secs</div>
                                                             </li>
                                                         </ul>
                                                         <div class="jC-clear"></div>
@@ -2686,7 +2686,7 @@
                                                             </li>
                                                             <li>
                                                                 <div class="seconds count"><?php echo $interval->format("%s");?></div>
-                                                                <div class="textSecs count-text">Secs HERE</div>
+                                                                <div class="textSecs count-text">Secs</div>
                                                             </li>
                                                         </ul>
                             
