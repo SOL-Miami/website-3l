@@ -142,8 +142,8 @@
                                 
                                 <div class="jx-right-vertical-border">
                                     <div class="jx-date">
-                                        <div class="jx-slider-day">25</div>
-                                        <div class="jx-slider-month jx-uppercase">jan</div>
+                                        <div class="jx-slider-day">12</div>
+                                        <div class="jx-slider-month jx-uppercase">Feb</div>
                                     </div>
                                 </div>
                                 
@@ -2814,7 +2814,7 @@
 					// How zoomed in you want the map to start at (always required)
                     zoom: 14,
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(41.1182572, -73.9395), // New York
+                    center: new google.maps.LatLng(25.7926153,-80.3381631), // Doral Florida SOL
                     // How you would like to style the map. 
                     // This is where you would paste any style found on Snazzy Maps.
                     styles: [{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#d3d3d3"}]},{"featureType":"transit","stylers":[{"color":"#808080"},{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"visibility":"on"},{"color":"#b3b3b3"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"weight":1.8}]},{"featureType":"road.local","elementType":"geometry.stroke","stylers":[{"color":"#d7d7d7"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ebebeb"}]},{"featureType":"administrative","elementType":"geometry","stylers":[{"color":"#a7a7a7"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#efefef"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#696969"}]},{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"visibility":"on"},{"color":"#737373"}]},{"featureType":"poi","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#d6d6d6"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"color":"#dadada"}]}]
@@ -2827,7 +2827,7 @@
                 var map = new google.maps.Map(mapElement, mapOptions);
                 // Lets also add a marker while we are at it
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(41.1182572, -73.9400),
+                    position: new google.maps.LatLng(25.7926153,-80.3381631),
                     icon: "http://ievent.janxcode.com/wp-content/themes/ievent/framework/images/map-location.png",
 					map: map,
                     title: "iEVENT"
