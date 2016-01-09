@@ -2664,16 +2664,9 @@
                     	<div class="dsb-theme-wrapper countdown">
                         <div class="dsb-theme">
                             <div class="counter-wrapper">
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            	<?php 	
+                             	<?php 	
 														$now = new DateTime();
-														$future_date = new DateTime('2011-05-11 12:00:00');
+														$future_date = new DateTime('2016-02-12 08:00:00');
 														$interval = $future_date->diff($now);
 														
 												?>
