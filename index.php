@@ -2157,7 +2157,7 @@
 										<div class="jx-event-slide">                        	
 												<div class="jx-slider-content">
 															<div class="jx-event-play">
-																<a href="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
+																<a href="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" data-rel="prettyPhoto"></a>
 															</div>
 												 </div>
 											</div>        
