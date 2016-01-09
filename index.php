@@ -893,7 +893,7 @@
 				</div>					
 				<!-- Item # 1 --> 
 			
-			<?php /*
+
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt=""></div>
