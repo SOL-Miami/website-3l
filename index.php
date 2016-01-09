@@ -893,7 +893,7 @@
 				</div>					
 				<!-- Item # 1 --> 
 			
-
+<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt=""></div>
@@ -905,7 +905,7 @@
 					
 						<div data-accordion class="head ">
 							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="title" data-control>Luey Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -915,7 +915,11 @@
 						</div>							
 					</div>
 				</div>					
+				
+				*/ ?>
+				
 				<!-- Item # 1 --> 
+				
 			
 </div>
 			</div>
@@ -935,7 +939,7 @@
 					
 						<div data-accordion class="head open">
 							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="title" data-control>Laura Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -963,7 +967,7 @@
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>John Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
