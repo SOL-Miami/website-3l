@@ -213,19 +213,19 @@
 														
                                                         <ul>
                                                             <li>
-                                                                <div class="days count"><?php echo $interval->format("%a days"); ?> </div>
+                                                                <div class="days count"><?php echo $interval->format("%a"); ?> </div>
                                                                 <div class="textDays count-text">Days</div>
                                                             </li>
                                                             <li>
-                                                                <div class="hours count"><?php echo $interval->format("%h hours");  ?> </div>
+                                                                <div class="hours count"><?php echo $interval->format("%h");  ?> </div>
                                                                 <div class="textHours count-text">Hours</div>
                                                             </li>
                                                             <li>
-                                                                <div class="minutes count"><?php echo $interval->format("%i minutes");  ?> </div>
+                                                                <div class="minutes count"><?php echo $interval->format("%i");  ?> </div>
                                                                 <div class="textmins count-text">Mins</div>
                                                             </li>
                                                             <li>
-                                                                <div class="seconds count"><?php echo $interval->format("%s seconds"); ?> </div>
+                                                                <div class="seconds count"><?php echo $interval->format("%s"); ?> </div>
                                                                 <div class="textSecs count-text">Secs</div>
                                                             </li>
                                                         </ul>
