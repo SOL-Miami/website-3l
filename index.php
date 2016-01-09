@@ -536,8 +536,8 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Hexal Vanc</div>
-                                <div class="jx-speaker-pos">Graphic Designer</div>
+                                <div class="jx-speaker-name">Joaquin & Ivette Molina</div>
+                                <div class="jx-speaker-pos">Sr. Pastors</div>
                             </div>
                         </div>
                     </div>			
@@ -547,8 +547,8 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-7" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Volen Atim</div>
-                                <div class="jx-speaker-pos">HR Manager</div>
+                                <div class="jx-speaker-name">Joey & Zuleika Torres</div>
+                                <div class="jx-speaker-pos">Pastors</div>
                             </div>
                         </div>
                     </div>			
@@ -558,8 +558,8 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-9-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-9" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Alex Nue</div>
-                                <div class="jx-speaker-pos">Finance Manager</div>
+                                <div class="jx-speaker-name">Kenny & Jenny Henao</div>
+                                <div class="jx-speaker-pos">Pastors</div>
                             </div>
                         </div>
                     </div>			
@@ -592,8 +592,8 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-5" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Rio Manes</div>
-                                <div class="jx-speaker-pos">Graphic Analyzer</div>
+                                <div class="jx-speaker-name">Joaquin & Ivette Molina</div>
+                                <div class="jx-speaker-pos">Sr. Pastors</div>
                             </div>
                         </div>
                     </div>			
