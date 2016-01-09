@@ -756,8 +756,8 @@
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
 						<li><div class="jx-tab-title">Live</div></li>
-						<li><div class="jx-tab-title">Love</div></li>
-						<li><div class="jx-tab-title">Laugh</div></li>
+						<!--<li><div class="jx-tab-title">Love</div></li> -->
+						<!--<li><div class="jx-tab-title">Laugh</div></li> -->
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                         
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -1155,7 +1155,7 @@
 				</div>					
 				<!-- Item # 1 --> 
 			
-			
+			<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-6.jpg" alt=""></div>
@@ -1177,6 +1177,9 @@
 						</div>							
 					</div>
 				</div>					
+				
+				*/ ?>
+				
 				<!-- Item # 1 --> 
 			
 			<?php /*
@@ -1217,7 +1220,7 @@
 					
 						<div data-accordion class="head ">
 							<div class="date"><i class="fa fa-clock-o"></i> <span>11:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="title" data-control>Am I Laughing yet Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
 							<!-- Title -->
 							
 							<div data-content>
