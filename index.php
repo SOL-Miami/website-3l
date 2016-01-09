@@ -2151,9 +2151,9 @@
                         
                        
                        
-                            <li>
+                            <li.myclass {display: inline-block;} >
                                 <ul class="jx-pricing-wrapper">
-                                    <li.myclass {display: inline-block;} data-type="standard" class="is-visible" >
+                                    <li data-type="standard" class="is-visible" >
 										<div class="jx-event-slide">                        	
 												<div class="jx-slider-content">
 															<div class="jx-event-play">
