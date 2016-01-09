@@ -723,7 +723,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 				<div class="jx-title-border right"></div> 
 				</div>
 				<div class="jx-title jx-uppercase">SCHEDULE</div>
-				<div class="jx-subtitle"><p>Below you will find our updated conference schedule that is sure to help your marriage remain strong, vibrant, healthy, exciting, and persevering! </p></div>
+				<div class="jx-subtitle"><p>Below you will find our updated conference schedule that is sure to help your marriage remain strong, vibrant, healthy, exciting, and persevering! We know you will find your time was well spent investing in your marriage. </p></div>
 				<!-- Section Title -->
 			
 </div>
