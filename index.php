@@ -205,10 +205,11 @@
                                                     <div class="counter-wrapper">
 														
 														
-													<?php 	$now = new DateTime();
+													<?php 	
+															$now = new DateTime();
 															$future_date = new DateTime('2016-02-12 08:00:00');
 															$interval = $future_date->diff($now);
-													?> 
+													?>
 
 													<!--<?php echo $interval->format("%a days, %h hours, %i minutes, %s seconds"); ?> -->
 														
