@@ -524,7 +524,12 @@
                     <div class="jx-speaker-item jx-speaker-box-content">
                         <div class="jx-title jx-uppercase">Meet Our <span>Speakers</span></div>
                         <div class="jx-hr-title"></div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                        <p>
+
+In a world where marriage and the family are under serious attack, we believe we need to take an offensive approach.  In Spring of Life Fellowship’s Marriage Ministries families are getting equipped by learning the truth on how the word of God instructs us to run our families.
+
+Through challenging, in depth, interactive, powerful Bible studies marriages and families are being strengthened, restored, encouraged, and renewed. We believe that we can save the family, one marriage at a time.
+</p>
                     </div>
                     <!-- Item Content Box-->			
                     <div class="jx-speaker-item">
@@ -717,7 +722,7 @@
 				<div class="jx-title-border right"></div> 
 				</div>
 				<div class="jx-title jx-uppercase">SCHEDULE</div>
-				<div class="jx-subtitle"><p>Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu</p></div>
+				<div class="jx-subtitle"><p>Below you will find our updated conference schedule that is sure to help your marriage remain strong, vibrant, healthy, exciting, and persevering! </p></div>
 				<!-- Section Title -->
 			
 </div>
