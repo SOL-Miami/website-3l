@@ -1,4 +1,0 @@
-== README
-
-Official Live Love Laugh Conference website.
-URL: http://3l.solmiami.org
