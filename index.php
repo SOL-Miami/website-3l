@@ -4,6 +4,18 @@
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
@@ -743,9 +755,9 @@
 				 <div id="ChildTab-1">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Workshop 1</div></li>
-						<li><div class="jx-tab-title">Workshop 2</div></li>
-						<li><div class="jx-tab-title">Workshop 3</div></li>
+						<li><div class="jx-tab-title">Live</div></li>
+						<li><div class="jx-tab-title">Love</div></li>
+						<li><div class="jx-tab-title">Laugh</div></li>
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                         
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -766,8 +778,8 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span> </span> <i class="fa fa-microphone"></i> <span>Kenny & Jenny Henao</span></div>
+							<div class="title" data-control>Live</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -786,7 +798,7 @@
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
-					
+				<?php /*	
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
@@ -850,7 +862,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			
+			*/ ?>
 </div>
 			</div>
 			
@@ -868,8 +880,8 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
+							<div class="title" data-control>Love</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -881,7 +893,7 @@
 				</div>					
 				<!-- Item # 1 --> 
 			
-			
+			<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt=""></div>
@@ -982,7 +994,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			
+			*/ ?>
 </div>
 			</div>
 			
@@ -1000,8 +1012,8 @@
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>John Doe</span></div>
-							<div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span>8:00 - 12:00</span> <i class="fa fa-microphone"></i> <span>Joey & Zuleika Torres</span></div>
+							<div class="title" data-control>Laugh</div>                        
 							<!-- Title -->
 							
 							<div data-content>
@@ -1013,7 +1025,7 @@
 				</div>					
 				<!-- Item # 1 --> 
 			
-			
+			<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7.jpg" alt=""></div>
@@ -1798,7 +1810,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			
+			*/ ?>
 </div>
 			</div>
 			
@@ -2268,7 +2280,7 @@
 	  </div>        
         <!-- EOF Price Table -->
         
- 
+             	<?php /* Comment data not needed   
              	
              	
         <!-- BOF Countdown + Form -->
@@ -2334,15 +2346,15 @@
                                 <div class="counter-wrapper">
                                     <ul>
                                         <li>
-                                            <div class="days count">30</div>
+                                            <div class="days count">00</div>
                                             <div class="textDays count-text">Days</div>
                                         </li>
                                         <li>
-                                            <div class="hours count">02</div>
+                                            <div class="hours count">00</div>
                                             <div class="textHours count-text">Hours</div>
                                         </li>
                                         <li>
-                                            <div class="minutes count">04</div>
+                                            <div class="minutes count">00</div>
                                             <div class="textmins count-text">Mins</div>
                                         </li>
                                         <li>
@@ -2364,7 +2376,7 @@
                     
                     </div>
                     <!-- EOF Countdown Form -->
-
+			*/ ?>
                 </div>
 			</div>
         <!-- EOF Countdown + Form -->
