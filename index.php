@@ -994,11 +994,11 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			*/ ?>
+
 </div>
 			</div>
 			
-<?php /*
+
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
 			
