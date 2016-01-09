@@ -253,17 +253,21 @@
                                 	<div class="jx-event-box jx-event-box-register">                                    
                                     
                                     <div class="jx-event-date">
-                                    	<div class="jx-event-day">25<span>-27</span></div>
-                                        <div class="jx-event-month jx-uppercase">jan 2015</div>
+                                    	<div class="jx-event-day">12<span>-13</span></div>
+                                        <div class="jx-event-month jx-uppercase">fEB 2016</div>
                                     </div>
                                     
                                     <div class="jx-event-title-box">
-                                    	<div class="jx-event-pretitle">2015 ANNUAL Conference</div>
-                                        <div class="jx-event-title">Wordpress and Hackers</div>
+                                    	<div class="jx-event-pretitle">2016 ANNUAL Conference</div>
+                                        <div class="jx-event-title">lIVE lOVE lAUGH</div>
                                         <div class="jx-event-register">
-                                  <!--       	<form action="php/contact-process.php" id="contactForm-register-2" method="post"> -->
+                                  <?php # comment   	<form action="php/contact-process.php" id="contactForm-register-2" method="post"> ?>
                                         <form action="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" id="contactForm-register-2" method="post">
-                                        <!--            <div class="jx-ticket-first-name">
+                                       
+                                        <?php /*
+                                        
+													Commented all of this as I dont care for it to show up
+                                                    <div class="jx-ticket-first-name">
                                                         <input type="text" id="name-register-2" name="name" placeholder="Full Name" class="jx-form-text" />
                                                         <!-- First Name Textbox -->
                                                     </div>
@@ -285,7 +289,8 @@
                                                         </div>
                                                                                                             
                                                     </div>
-                                           -->         
+                                           */?>         
+                                           
                                                     <input type="submit" id="submit-register-2" name="submit" class="jx-form-btn jx-btn-default" value="REGISTER NOW" />
                                                     <!-- Submit Button -->
                                                                             
