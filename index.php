@@ -2149,17 +2149,9 @@
                             </li>
                         
                         
-    
-                            <!-- Item 1 -->
-                            <li>
-                                <ul class="jx-pricing-wrapper">
-                                    <li data-type="standard" class="is-visible">
-                                        
-                                        <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">
-                                            
-                                            
-                                            							<div class="jx-event-slide">                        	
+                        
+                        
+                        		<div class="jx-event-slide">                        	
 															<div class="jx-slider-content">
 																<div class="container">
 																	<div class="jx-event-box">
@@ -2170,6 +2162,19 @@
 																</div>    
 															 </div>
 														</div>            	            
+                        
+    
+    <?php /*
+                            <!-- Item 1 -->
+                            <li>
+                                <ul class="jx-pricing-wrapper">
+                                    <li data-type="standard" class="is-visible">
+                                        
+                                        <div class="one-third columns jx-price-item">            
+                                            <div class="jx-price">
+                                            
+                                            
+                                            					
 							
                                             
                                             </div>            
@@ -2204,7 +2209,7 @@
                             </li>
                             
                             <!-- Item 1 -->
-                
+         */ ?>       
     		
                 
                             <li>
