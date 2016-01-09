@@ -2147,42 +2147,13 @@
                         
     
                             <!-- Item 1 -->
-                        
                             <li>
                                 <ul class="jx-pricing-wrapper">
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">
-                                            
-                                            
-                                            
-                                            
-                                            
-                                            
-													<li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
-														<div class="jx-event-slide">                        	
-															<div class="jx-slider-content">
-																<div class="container">
-																	<div class="jx-event-box">
-																		<div class="jx-event-play">
-																			<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
-																		</div>
-																	</div> 
-																</div>    
-															 </div>
-														</div>            	            
-													</li>
-													
-                    
-                                            
-                                            </div>            
+                                            <div class="jx-price">50<span>.00</span></div>            
                                             <div class="jx-package-name jx-uppercase">Register</div>            
-                                            
-                <?php /* Comment data not needed   
-             	                            
-                                            
-                                            
                                             <div class="jx-package-feature">            
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
@@ -2190,9 +2161,6 @@
                                                     <li><i class="fa fa-chevron-right"></i>Printed Materials</li>
                                                 </ul>
                                             </div> 
-                                            
-                */ ?>                            
-                                            
                                                                    
                                         </div>
                                     </li>
@@ -2217,7 +2185,7 @@
                             
                             <!-- Item 1 -->
                 
-    				         */ ?>
+    		
                 
                             <li>
                                 <ul class="jx-pricing-wrapper">
@@ -2255,6 +2223,52 @@
                         
                             
                             <!-- Item 1 -->
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             													<li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
+														<div class="jx-event-slide">                        	
+															<div class="jx-slider-content">
+																<div class="container">
+																	<div class="jx-event-box">
+																		<div class="jx-event-play">
+																			<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
+																		</div>
+																	</div> 
+																</div>    
+															 </div>
+														</div>            	            
+													</li>
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
+                             
                              
                             
                             
