@@ -205,46 +205,27 @@
                                                     <div class="counter-wrapper">
 														
 													<?php 	
-													
-													$startdate = date("Y-m-d H:i:s"); 
-													$enddate="2016-02-12 08:00:00"; 
-
-													$diff=strtotime($enddate)-strtotime($startdate); 
-													//echo "diff in seconds: $diff<br/>\n<br/>\n"; 
-
-													// immediately convert to days 
-													$temp=$diff/86400; // 60 sec/min*60 min/hr*24 hr/day=86400 sec/day 
-
-													// days 
-													$days=floor($temp); 
-													// hours 
-													$hours=floor($temp); 
-													// minutes 
-													$minutes=floor($temp); 
-													// seconds 
-													$seconds=floor($temp); 
-
-													//echo "Result: {$days}d {$hours}h {$minutes}m {$seconds}s<br/>\n"; 
-													//echo "Expected: 7d 0h 0m 0s<br/>\n"; 
-													//echo "time isss".time();
-													//echo   $date = date('Y-m-d H:i:s')";
+														$now = new DateTime();
+														$future_date = new DateTime('2011-05-11 12:00:00');
+														$interval = $future_date->diff($now);
+														
 												?>
 														
                                                         <ul>
                                                             <li>
-                                                                <div class="days count"><?php echo "days: $days"; $temp=24*($temp-$days); ?> </div>
+                                                                <div class="days count"><?php echo $interval->format("%a days"); ?> </div>
                                                                 <div class="textDays count-text">Days</div>
                                                             </li>
                                                             <li>
-                                                                <div class="hours count"><?php echo "hours: $hours"; $temp=60*($temp-$hours);  ?> </div>
+                                                                <div class="hours count"><?php echo $interval->format("%h hours");  ?> </div>
                                                                 <div class="textHours count-text">Hours</div>
                                                             </li>
                                                             <li>
-                                                                <div class="minutes count"><?php echo "minutes: $minutes"; $temp=60*($temp-$minutes);  ?> </div>
+                                                                <div class="minutes count"><?php echo $interval->format("%i minutes");  ?> </div>
                                                                 <div class="textmins count-text">Mins</div>
                                                             </li>
                                                             <li>
-                                                                <div class="seconds count"><?php echo "seconds: $seconds";  ?> </div>
+                                                                <div class="seconds count"><?php echo $interval->format("%s seconds"); ?> </div>
                                                                 <div class="textSecs count-text">Secs</div>
                                                             </li>
                                                         </ul>
