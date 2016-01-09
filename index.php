@@ -1464,7 +1464,7 @@
 				 <!-- Item#1 -->
 			 </div>
 			
-
+<?php /*
 			 <div>
 				 <div id="ChildTab-3">
 					
@@ -1820,7 +1820,9 @@
 				 </div>
 				 <!-- Item#1 -->
 			 </div>
-			
+
+*/ ?>
+		
 </div>
 			
 
