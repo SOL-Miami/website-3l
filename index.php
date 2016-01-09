@@ -132,8 +132,8 @@
                                             <div class="jx-event-month jx-uppercase">feb 2016</div>
                                         </div>
                                         <div class="jx-event-title-box">
-                                            <div class="jx-event-pretitle">2016 LIVE LOVE LAUGH ANNUAL Conference</div>
-                                            <div class="jx-event-title">Spring Of Life Fellowship</div>
+                                            <div class="jx-event-pretitle">2016 Annual Conference</div>
+                                            <div class="jx-event-title">LIVE LOVE LAUGH</div>
                                             <div class="jx-event-location">Doral, Florida</div>
                                         </div>
                                     
@@ -163,9 +163,9 @@
                                             <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
                                         </div>
                                         <div class="jx-event-title-box">
-                                            <div class="jx-event-pretitle">2015 ANNUAL Conference</div>
-                                            <div class="jx-event-title">Wordpress and Hackers</div>
-                                            <div class="jx-event-location">Manama, Kingdom of Bahrain</div>
+                                            <div class="jx-event-pretitle">2015 Live Love Laugh Tease</div>
+                                            <div class="jx-event-title">Spring Of Life Fellowship</div>
+                                            <div class="jx-event-location">Doral, Florida</div>
                                         </div>
                                     
                                     </div> 
@@ -191,13 +191,13 @@
                                     <div class="jx-event-box jx-event-box-counter">                                    
                                         
                                         <div class="jx-event-date">
-                                            <div class="jx-event-day">25<span>-27</span></div>
-                                            <div class="jx-event-month jx-uppercase">jan 2015</div>
+                                            <div class="jx-event-day">12<span>-13</span></div>
+                                            <div class="jx-event-month jx-uppercase">feb 2016</div>
                                         </div>
                                         
                                         <div class="jx-event-title-box">
-                                            <div class="jx-event-pretitle">2015 ANNUAL Conference</div>
-                                            <div class="jx-event-title">Wordpress and Hackers</div>
+                                            <div class="jx-event-pretitle">2016 Annual Conference</div>
+                                            <div class="jx-event-title"> LIVE LOVE LAUGH</div>
                                             <div class="jx-event-countdown">
                                             <div class="jx-countdown">
                                                 <div class="dsb-theme-wrapper countdown">
@@ -205,19 +205,19 @@
                                                     <div class="counter-wrapper">
                                                         <ul>
                                                             <li>
-                                                                <div class="days count">00</div>
+                                                                <div class="days count">30</div>
                                                                 <div class="textDays count-text">Days</div>
                                                             </li>
                                                             <li>
-                                                                <div class="hours count">00</div>
+                                                                <div class="hours count">10</div>
                                                                 <div class="textHours count-text">Hours</div>
                                                             </li>
                                                             <li>
-                                                                <div class="minutes count">00</div>
+                                                                <div class="minutes count">08</div>
                                                                 <div class="textmins count-text">Mins</div>
                                                             </li>
                                                             <li>
-                                                                <div class="seconds count">00</div>
+                                                                <div class="seconds count">24</div>
                                                                 <div class="textSecs count-text">Secs</div>
                                                             </li>
                                                         </ul>
@@ -261,8 +261,9 @@
                                     	<div class="jx-event-pretitle">2015 ANNUAL Conference</div>
                                         <div class="jx-event-title">Wordpress and Hackers</div>
                                         <div class="jx-event-register">
-                                        	<form action="php/contact-process.php" id="contactForm-register-2" method="post">
-                                                    <div class="jx-ticket-first-name">
+                                  <!--       	<form action="php/contact-process.php" id="contactForm-register-2" method="post"> -->
+                                        <form action="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" id="contactForm-register-2" method="post">
+                                        <!--            <div class="jx-ticket-first-name">
                                                         <input type="text" id="name-register-2" name="name" placeholder="Full Name" class="jx-form-text" />
                                                         <!-- First Name Textbox -->
                                                     </div>
@@ -284,7 +285,7 @@
                                                         </div>
                                                                                                             
                                                     </div>
-                                                    
+                                           -->         
                                                     <input type="submit" id="submit-register-2" name="submit" class="jx-form-btn jx-btn-default" value="REGISTER NOW" />
                                                     <!-- Submit Button -->
                                                                             
