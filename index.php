@@ -866,7 +866,7 @@
 </div>
 			</div>
 			
-
+<?php /*
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
 			
@@ -998,7 +998,7 @@
 </div>
 			</div>
 			
-
+<?php /*
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
 			
@@ -1024,7 +1024,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			
+		*/ ?>	
 			<?php /*
 				<div class="item"> 					  
 					<div class="left-position">
@@ -1107,14 +1107,14 @@
 				 <!-- Item#1 -->
 			 </div>
 			
-
+*/ ?>
 			 <div>
 				 <div id="ChildTab-2">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Workshop 1</div></li>
-						<li><div class="jx-tab-title">Workshop 2</div></li>
-						<li><div class="jx-tab-title">Workshop 3</div></li>
+						<li><div class="jx-tab-title">Live</div></li>
+						<li><div class="jx-tab-title">Love</div></li>
+						<li><div class="jx-tab-title">Laugh</div></li>
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                       
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -1810,7 +1810,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			*/ ?>
+		
 </div>
 			</div>
 			
