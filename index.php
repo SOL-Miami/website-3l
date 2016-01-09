@@ -262,7 +262,7 @@
                                         <div class="jx-event-title">LIVE LOVE LAUGH</div>
                                         <div class="jx-event-register">
                                   <?php # comment   	<form action="php/contact-process.php" id="contactForm-register-2" method="post"> ?>
-                                        <form action="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" id="contactForm-register-2" method="post">
+                                        <form action="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" target="_blank" id="contactForm-register-2" method="post">
                                        
                                         <?php /*
                                         
@@ -2160,7 +2160,7 @@
 										<div class="jx-event-slide">                        	
 												<div class="jx-slider-content">
 															<div style="padding-left: 95px;" class="jx-event-play">
-																<a href="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab"><i class="fa fa-play"></i></a>
+																<a href="http://solmiami.us12.list-manage.com/track/click?u=55b61422e07cc89d7931e62b7&id=d66100828e&e=9d34b359ab" target="_blank"><i class="fa fa-play"></i></a>
 															</div>
 												 </div>
 											</div>  
