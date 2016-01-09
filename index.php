@@ -790,7 +790,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			<?php /*	
+			
 			
 				<div class="item"> 					  
 					<div class="left-position">
@@ -798,7 +798,7 @@
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
-				
+				<?php /*	
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
@@ -862,7 +862,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-		
+			*/ ?>
 </div>
 			</div>
 			
@@ -994,7 +994,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-
+			*/ ?>
 </div>
 			</div>
 			
@@ -1024,8 +1024,8 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-		*/ ?>	
-			<?php /*
+			
+			
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7.jpg" alt=""></div>
@@ -1107,14 +1107,14 @@
 				 <!-- Item#1 -->
 			 </div>
 			
-*/ ?>
+
 			 <div>
 				 <div id="ChildTab-2">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Live</div></li>
-						<li><div class="jx-tab-title">Love</div></li>
-						<li><div class="jx-tab-title">Laugh</div></li>
+						<li><div class="jx-tab-title">Workshop 1</div></li>
+						<li><div class="jx-tab-title">Workshop 2</div></li>
+						<li><div class="jx-tab-title">Workshop 3</div></li>
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                       
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -1810,7 +1810,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-		
+			
 </div>
 			</div>
 			
