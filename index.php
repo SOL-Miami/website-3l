@@ -2153,7 +2153,7 @@
                        
                             <li>
                                 <ul class="jx-pricing-wrapper">
-                                    <li data-type="standard" class="is-visible">
+                                    <li data-type="standard" class="is-visible" {display: inline-block;}>
 										<div class="jx-event-slide">                        	
 												<div class="jx-slider-content">
 															<div class="jx-event-play">
