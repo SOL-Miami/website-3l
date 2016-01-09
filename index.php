@@ -790,7 +790,7 @@
 					</div>
 				</div>					
 				<!-- Item # 1 --> 
-			
+							<?php /*
 			
 				<div class="item"> 					  
 					<div class="left-position">
@@ -798,7 +798,7 @@
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
-				<?php /*	
+	
 					<div class="right-position">
 					
 						<div data-accordion class="head ">
