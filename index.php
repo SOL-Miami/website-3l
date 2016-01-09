@@ -172,8 +172,8 @@
                                 </div>    
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date">
-                                            <div class="jx-slider-day">25</div>
-                                            <div class="jx-slider-month jx-uppercase">jan</div>
+                                            <div class="jx-slider-day">12</div>
+                                            <div class="jx-slider-month jx-uppercase">Feb</div>
                                         </div>
                                     </div>
                                 
@@ -234,8 +234,8 @@
                                 </div>
                                 <div class="jx-right-vertical-border">
                                     <div class="jx-date">
-                                        <div class="jx-slider-day">25</div>
-                                        <div class="jx-slider-month jx-uppercase">jan</div>
+                                        <div class="jx-slider-day">12</div>
+                                        <div class="jx-slider-month jx-uppercase">Feb</div>
                                     </div>
                                 </div>
                                 
@@ -303,8 +303,8 @@
                                 </div>
                                 <div class="jx-right-vertical-border">
                                     <div class="jx-date">
-                                        <div class="jx-slider-day">25</div>
-                                        <div class="jx-slider-month jx-uppercase">jan</div>
+                                        <div class="jx-slider-day">12</div>
+                                        <div class="jx-slider-month jx-uppercase">feb</div>
                                     </div>
                                 </div>
                                 
@@ -2145,27 +2145,7 @@
                             </li>
                         
                         
-                        
-                 <li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
-                    
-                    	<div class="jx-event-slide">                        	
-                            <div class="jx-slider-content">
-                            	<div class="container">
-                                    <div class="jx-event-box">
-                                        <div class="jx-event-play">
-                                            <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
-                                        </div>
-                                    </div> 
-                                </div>    
-                             </div>
-                    	</div>            	            
-                        
-                    </li>
-                        
-                        
-                        
-                        
-                        <?php /* Comment data not needed       
+    
                             <!-- Item 1 -->
                         
                             <li>
@@ -2173,17 +2153,50 @@
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">50<span>.00</span></div>            
-                                            <div class="jx-package-name jx-uppercase">Standard</div>            
+                                            <div class="jx-price">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+													<li class="jx-parallax-fullwidth" style="background-image:url('images/slide-1.jpg');">                    
+														<div class="jx-event-slide">                        	
+															<div class="jx-slider-content">
+																<div class="container">
+																	<div class="jx-event-box">
+																		<div class="jx-event-play">
+																			<a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
+																		</div>
+																	</div> 
+																</div>    
+															 </div>
+														</div>            	            
+													</li>
+													
+                    
+                                            
+                                            </div>            
+                                            <div class="jx-package-name jx-uppercase">Register</div>            
+                                            
+                <?php /* Comment data not needed   
+             	                            
+                                            
+                                            
                                             <div class="jx-package-feature">            
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
                                                     <li><i class="fa fa-chevron-right"></i>Easy Access</li>            
                                                     <li><i class="fa fa-chevron-right"></i>Printed Materials</li>
                                                 </ul>
-                                            </div>                        
+                                            </div> 
+                                            
+                */ ?>                            
+                                            
+                                                                   
                                         </div>
                                     </li>
+                            
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
@@ -2674,7 +2687,7 @@
 							<div class="jx-hotline-event">
 								<i class="line-icon icon-globe"></i>
 								<div class="jx-info">
-									<div class="jx-bar-head">2029 NW 87 Ave</div>
+									<div class="jx-bar-head">2029 NW 87 Avenue</div>
 									<div class="jx-bar-title">support@solmiami.org</div>
 								</div>
 							</div>
