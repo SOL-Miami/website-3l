@@ -2636,7 +2636,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                 
                                 <div class="jx-testimonial-content">
                                     <div class="jx-name"><i class="fa fa-quote-left"></i><span>Volen Atim</span></div>
-                                    <div class="jx-content"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
+                                    <div class="jx-content"><p>Lorem ipsum dolor sit amet, cvvonsectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
                                 
                                 </div>
                                 <div class="clearfix"></div>
