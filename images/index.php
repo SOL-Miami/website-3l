@@ -555,7 +555,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <!-- Item -->
                                 
                     <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/kenny_jenny.jpg" class="attachment-speaker-image wp-post-image" alt="team-9" />
+                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/jenny_kenny.jpg" class="attachment-speaker-image wp-post-image" alt="team-9" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">Kenny & Jenny Henao</div>
@@ -878,7 +878,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/joaquin_ivette.jpg" alt=""></div>
+					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -1140,7 +1140,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/joaquin_ivette.jpg" alt=""></div>
+					<div class="image"><img src="/images/Kenny_Jenny.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -2608,7 +2608,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
         
         <!-- Testimonial -->
         <div  class="jx-container container-no-margin  jx-grey-bg ">
-				<div class='parallax-no-height ' style='background-image:url(/images/lower_bg.jpg);background-position: 0px -342px;'></div>
+				<div class='parallax-no-height ' style='background-image:url(http://ievent.janxcode.com/wp-content/uploads/2015/09/16587287897_f41418b5be_o.jpg);background-position: 0px -342px;'></div>
 				<!-- Background Image -->
 				
 				<!-- Background Icon -->
@@ -2631,12 +2631,12 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                              
                             </div></li><li><div class="jx-testimonial-item">
                             
-                                <div class="jx-photo"><img width="176" height="178" src="/images/003.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
+                                <div class="jx-photo"><img width="176" height="178" src="/images/lower_bg.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
                                 <!-- Image -->
                                 
                                 <div class="jx-testimonial-content">
-                                    <div class="jx-name"><i class="fa fa-quote-left"></i><span>Hector & Daisy G.</span></div>
-                                    <div class="jx-content"><p>Lorem ipsum dolor sit amet</p></div>
+                                    <div class="jx-name"><i class="fa fa-quote-left"></i><span>Volen Atim</span></div>
+                                    <div class="jx-content"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
                                 
                                 </div>
                                 <div class="clearfix"></div>
