@@ -2617,7 +2617,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <div class="jx-testimonial">		
                         <div class="flexslider">
                             <ul class="slides">
-                    <li><div class="jx-testimonial-item">
+               <?php /*     <li><div class="jx-testimonial-item">
                             
                                 <div class="jx-photo"><img width="176" height="178" src="/images/lower_bg.jpg" class="attachment-testimonial wp-post-image" alt="team-1" /></div>
                                 <!-- Image -->
@@ -2628,15 +2628,16 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                 
                                 </div>
                                 <div class="clearfix"></div>
-                                             
+                       */ ?>
+                                               
                             </div></li><li><div class="jx-testimonial-item">
                             
                                 <div class="jx-photo"><img width="176" height="178" src="/images/003-crop.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
                                 <!-- Image -->
                                 
                                 <div class="jx-testimonial-content">
-                                    <div class="jx-name"><i class="fa fa-quote-left"></i><span>Gongora Fam.</span></div>
-                                    <div class="jx-content"><p>Lorem ipsum dolor sit amet</p></div>
+                                    <div class="jx-name"><i class="fa fa-quote-left"></i><span>Hector G.</span></div>
+                                    <div class="jx-content"><p>“The Holy Spirit ministered mightily through the various speakers, blessing my wife and I as we grow trogether in our faith. We had a great time and cant wait to see what next year has to come. Thank You!” </p></div>
                                 
                                 </div>
                                 <div class="clearfix"></div>
