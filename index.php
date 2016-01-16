@@ -103,7 +103,7 @@
         	<div class="jx-header jx-sticky">            	
             	<div class="container">
                 	<div class="sixteen columns">
-                        <div class="jx-logo left"><img src="images/logo.png" alt=""></div>
+                        <div class="jx-logo left"><img src="images/3llogo.png" alt=""></div>
                         <nav class="jx-menu right">
                             <div id="jx-main-menu" class="main-menu">
                                 <ul>
@@ -2637,7 +2637,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                 
                                 <div class="jx-testimonial-content">
                                     <div class="jx-name"><i class="fa fa-quote-left"></i><span>Hector G.</span></div>
-                                    <div class="jx-content"><p>“The Holy Spirit ministered mightily through the various speakers, blessing my wife and I as we grow trogether in our faith. Thank You!” </p></div>
+                                    <div class="jx-content"><p>“The Holy Spirit ministered mightily through the various speakers, blessing my wife and I as we grow together in our faith. Thank You!” </p></div>
                                 
                                 </div>
                                 <div class="clearfix"></div>
