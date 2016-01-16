@@ -2631,11 +2631,11 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                              
                             </div></li><li><div class="jx-testimonial-item">
                             
-                                <div class="jx-photo"><img width="176" height="178" src="/images/003.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
+                                <div class="jx-photo"><img width="176" height="178" src="/images/003-crop.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
                                 <!-- Image -->
                                 
                                 <div class="jx-testimonial-content">
-                                    <div class="jx-name"><i class="fa fa-quote-left"></i><span>Hector & Daisy G.</span></div>
+                                    <div class="jx-name"><i class="fa fa-quote-left"></i><span>Gongora Fam.</span></div>
                                     <div class="jx-content"><p>Lorem ipsum dolor sit amet</p></div>
                                 
                                 </div>
