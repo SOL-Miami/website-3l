@@ -533,7 +533,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     </div>
                     <!-- Item Content Box-->			
                     <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/joaquin_ivette.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">Joaquin & Ivette Molina</div>
@@ -544,7 +544,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <!-- Item -->
                                 
                     <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-7" />
+                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/joey_zuleika.jpg" class="attachment-speaker-image wp-post-image" alt="team-7" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">Joey & Zuleika Torres</div>
@@ -555,7 +555,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <!-- Item -->
                                 
                     <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-9-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-9" />
+                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/jenny_kenny.jpg" class="attachment-speaker-image wp-post-image" alt="team-9" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">Kenny & Jenny Henao</div>
@@ -776,7 +776,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>
+					<div class="image"><img src="/images/kenny_jenny.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -1014,7 +1014,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-6.jpg" alt=""></div>
+					<div class="image"><img src="/images/joey_zuleika.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -1140,7 +1140,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>
+					<div class="image"><img src="/images/Kenny_Jenny.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -1250,7 +1250,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt=""></div>
+					<div class="image"><img src="/images/joey_zuleika.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -2425,17 +2425,17 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <div class="jx-title-border right"></div> 
                     </div>
                     <div class="jx-title jx-uppercase">GALLERY</div>
-                    <div class="jx-subtitle"><p>Viverra dignissim elit. Maecenas in orci nisl. Cras et nisl aliquet, mollis purus ac, vestibulum metus. Suspendisse arcu ex, condimentum vehicula tempus eget, varius ut tortor</p></div>
+                    <div class="jx-subtitle"><p>A few images from our 2015 Live Lovae Laugh conference. We had a great time and can't wait to see what the 2016 Live Love Laugh conference has in store for us.</p></div>
                     <!-- Section Title -->
                 
                 </div>
                 
                 <div class="jx-grid-item grid-item-height2 grid-item-width2">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_23-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/010.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_23-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/010.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2451,44 +2451,44 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/014.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/014.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/024.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/024.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/033.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/033.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/031.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/031.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2504,33 +2504,33 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_16-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_16" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/034.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_16" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_16-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/034.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_15-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_15" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/032.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_15" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_15-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/032.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_14-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/037.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_14-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/037.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2548,55 +2548,55 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
         
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/025.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/025.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/011.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/011.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/006.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/006.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/027.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/027.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item grid-item-width2-only">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/030.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/030.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2619,7 +2619,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                             <ul class="slides">
                     <li><div class="jx-testimonial-item">
                             
-                                <div class="jx-photo"><img width="176" height="178" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1-176x178.jpg" class="attachment-testimonial wp-post-image" alt="team-1" /></div>
+                                <div class="jx-photo"><img width="176" height="178" src="/images/lower_bg.jpg" class="attachment-testimonial wp-post-image" alt="team-1" /></div>
                                 <!-- Image -->
                                 
                                 <div class="jx-testimonial-content">
@@ -2631,7 +2631,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                              
                             </div></li><li><div class="jx-testimonial-item">
                             
-                                <div class="jx-photo"><img width="176" height="178" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/testimonial-1.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
+                                <div class="jx-photo"><img width="176" height="178" src="/images/lower_bg.jpg" class="attachment-testimonial wp-post-image" alt="testimonial-1" /></div>
                                 <!-- Image -->
                                 
                                 <div class="jx-testimonial-content">
