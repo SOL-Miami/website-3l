@@ -878,7 +878,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt=""></div>
+					<div class="image"><img src="/images/joaquin_ivette.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -1140,7 +1140,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/Kenny_Jenny.jpg" alt=""></div>
+					<div class="image"><img src="/images/kenny_jenny.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
