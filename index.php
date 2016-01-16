@@ -2425,7 +2425,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <div class="jx-title-border right"></div> 
                     </div>
                     <div class="jx-title jx-uppercase">GALLERY</div>
-                    <div class="jx-subtitle"><p>A few images from our 2015 Live Lovae Laugh conference. We had a great time and can't wait to see what the 2016 Live Love Laugh conference has in store for us.</p></div>
+                    <div class="jx-subtitle"><p>A few images from our 2015 Live Love Laugh conference. We had a great time and can't wait to see what the 2016 Live Love Laugh conference has in store for us.</p></div>
                     <!-- Section Title -->
                 
                 </div>
@@ -2637,7 +2637,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                 
                                 <div class="jx-testimonial-content">
                                     <div class="jx-name"><i class="fa fa-quote-left"></i><span>Hector G.</span></div>
-                                    <div class="jx-content"><p>“The Holy Spirit ministered mightily through the various speakers, blessing my wife and I as we grow trogether in our faith. We had a great time and cant wait to see what next year has to come. Thank You!” </p></div>
+                                    <div class="jx-content"><p>“The Holy Spirit ministered mightily through the various speakers, blessing my wife and I as we grow trogether in our faith. Thank You!” </p></div>
                                 
                                 </div>
                                 <div class="clearfix"></div>
@@ -2823,12 +2823,12 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
         	<div class="container">              
                          <div class="jx-footer-social">
                 <ul>
-                                        <li><a href="http://www.facebook.com/ievent"><i class="fa fa-facebook"></i></a></li>
-                                                            <li><a href="http://www.twitter.com/ievent"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.facebook.com/springoflifefellowship/"><i class="fa fa-facebook"></i></a></li>
+                                                            <li><a href="https://twitter.com/joaquingmolina"><i class="fa fa-twitter"></i></a></li>
                                                            <!-- <li><a href="http://www.youtube.com/ievent"><i class="fa fa-youtube"></i></a></li>-->
                                                            <!-- <li><a href="http://www.googleplus.com/ievent"><i class="fa fa-google-plus"></i></a></li> -->
                                                            <!-- <li><a href="http://www.dribbble.com/ievent"><i class="fa fa-dribbble"></i></a></li> -->
-                                                            <li><a href="http://www.instagram.com/ievent"><i class="fa fa-instagram"></i></a></li>
+                                                            <li><a href="https://www.instagram.com/solfellowship/"><i class="fa fa-instagram"></i></a></li>
                                                           <!--  <li><a href="http://www.pinterest.com/ievent"><i class="fa fa-pinterest"></i></a></li> -->
                                                           <!--  <li><a href="http://www.flickr.com/ievent"><i class="fa fa-flickr"></i></a></li> -->
                                     </ul>
@@ -2852,7 +2852,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
     <script type="text/javascript" src="vendor/jquery.appear.js"></script>    
     <script type="text/javascript" src="vendor/prettyPhoto/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" src="vendor/flexslider/jquery.flexslider.js"></script> 
-    <script type='text/javascript' src="vendor/form-validator/jquery.form-validator.min.js"></script>	
+    <script type="text/javascript" src="vendor/form-validator/jquery.form-validator.min.js"></script>	
      
    
     <!-- Theme Initializer -->
@@ -2888,7 +2888,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     position: new google.maps.LatLng(25.7926153,-80.3381631),
                     icon: "http://ievent.janxcode.com/wp-content/themes/ievent/framework/images/map-location.png",
 					map: map,
-                    title: "iEVENT"
+                    title: "Live Love Laugh Conference"
                 });
             }
       </script>
