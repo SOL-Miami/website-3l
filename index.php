@@ -1130,8 +1130,8 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 				 <div id="ChildTab-2">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Live</div></li>
 						<li><div class="jx-tab-title">Love</div></li>
+						<li><div class="jx-tab-title">Live</div></li>
 						<!--<li><div class="jx-tab-title">Laugh</div></li>-->
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                       
 					</ul>                            
@@ -2461,10 +2461,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/014-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
                     
-                        <div class="jx-image-overlayer"></div>
+                      <!--             <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/014.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2472,10 +2472,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/037-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/037.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2483,10 +2483,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/029-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/029.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2494,10 +2494,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/031-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/031.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2514,10 +2514,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/034-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_16" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/034.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2525,10 +2525,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/032-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_15" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/032.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2536,10 +2536,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/024-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/024.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2558,10 +2558,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/025-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/025.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2569,10 +2569,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/019-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
                     
-                        <div class="jx-image-overlayer"></div>
+                        <!-- <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/019.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2580,10 +2580,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/006-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
                     
-                        <div class="jx-image-overlayer"></div>
+                        <!--           <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/006.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2591,10 +2591,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/027-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/027.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
@@ -2602,10 +2602,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 <div class="jx-grid-item grid-item-width2-only">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/030-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <!--            <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/030.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover -->
                     </div>                        
                 </div>
