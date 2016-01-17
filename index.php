@@ -723,7 +723,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 				<div class="jx-title-border right"></div> 
 				</div>
 				<div class="jx-title jx-uppercase">SCHEDULE</div>
-				<div class="jx-subtitle"><p>Below you will find our updated conference schedule that is sure to help your marriage remain strong, vibrant, healthy, exciting, and persevering! We know you will find your time was well spent investing in your marriage. </p></div>
+				<div class="jx-subtitle"><p>Below you will find our updated conference schedule for our main sessions, these sessions are sure to help your marriage remain strong, vibrant, healthy, exciting, and persevering! Once at the conference you will also be presented with more workshops with different topics and speakers. We know you will find your time was well spent investing in your marriage. </p></div>
 				<!-- Section Title -->
 			
 </div>
@@ -773,7 +773,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
-			
+					
 				<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="/images/kenny_jenny.jpg" alt=""></div>
@@ -789,7 +789,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>With all the business of this world, sometimes it feelslike life is flying by. In this sessionyou'll learn to "LIVE" again and bring a fresh new "life" into your marriage.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -891,7 +891,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Love If you realy love someone pray for them .Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted its true meaning. In this session you'll learn what loveis, how to truly love, and what it takes to keep love in your marriageforever.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1027,7 +1027,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Daisy Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>Marriagewas meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -2125,7 +2125,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
         <div id='register' class="jx-container container-no-margin jx-padding jx-white-bg ">
 				
             <!-- Background Image -->
-            
+        
             <!-- Background Icon -->
             <div class="container">
                 <div class="jx-section-title-1 jx-dark">
@@ -2136,7 +2136,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <div class="jx-title-border right"></div> 
                     </div>
                     <div class="jx-title jx-uppercase">register</div>
-                    <div class="jx-subtitle"><p>Register online or register in the welcome center at Spring Of Life fellowship. Early bird registration  is open until January 10, 2016 and will get you a $10.00 discount. Please note that all online registrations have a convenience fee of $3.19. If you register at the welcome center you will not be charged the convenience fee. </p></div>
+                    <div class="jx-subtitle"><p>Register online or register in the welcome center at Spring Of Life fellowship. Early bird registration  is open until January 10, 2016 and will get you a $10.00 discount.</p></div>
                     <!-- Section Title -->
                 </div>
                 <div class="jx-pricing-container">    
@@ -2160,7 +2160,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">40<span>.00</span></div>            
+                                            <div class="jx-price">40<span>.00 per couple</span></div>            
                                             <div class="jx-package-name jx-uppercase">Early Bird</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
@@ -2174,7 +2174,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
-                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-price">50<span>.00 per couple</span></div>            
                                             <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
@@ -2431,13 +2431,16 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item grid-item-height2 grid-item-width2">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/010-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/033-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
                     
-                        <div class="jx-image-overlayer"></div>
+                       <?php /* 
+                       <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/010.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/330.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
-                        <!--Image Hover -->
+                        <!--Image Hover --> 
+                        */ php>
+                        
                     </div>                        
                 </div>
                 
@@ -2462,22 +2465,22 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/024-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/037-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/024.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/037.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/033-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/029-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/033.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/029.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2526,11 +2529,11 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/037-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/024-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/037.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/024.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
