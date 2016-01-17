@@ -60,7 +60,7 @@ Version: 		1.0
 			//Bouncy 
 			this.bouncy();			
 		
-			//Theme Styler  HMG DISABLED IT SO THAT THE MENU DOESNT APPEAR
+			//Theme Styler
 			this.themestyler();
 
 		},
@@ -617,6 +617,156 @@ Version: 		1.0
 		},
 		themestyler: function(){
 			
+		var $b = jQuery('body'),
+			$h = jQuery('head'),
+			$w = jQuery(window);
+		
+		
+		$b.append('<div style="left: 0px;" id="ievent-styleswitcher"><div class="ievent-styleswitcher-body"><div class="toggle-switchme"><div class="ievent-styleswitcher-toogle"><i class="fa fa-gear fa-gear-animate"></i></div><div class="ievent-styleswitcher-head">Style Switcher</div></div><div class="ievent-styleswitcher-section"><strong>Layout Style</strong><select name="layout"><option>Wide</option><option>Boxed</option></select></div><div class="ievent-styleswitcher-section colors clearfix"><strong>Color Versions</strong><a href="#" title="Blue"><div class="color_css" id="3ea7d7"style="background:#3ea7d7; width:20px; height:20px;"></div></a><a href="#" title="Green Crayola"><div class="color_css" id="1DA879"style="background:#1DA879; width:20px; height:20px;"></div></a><a href="#" title="Red"><div class="color_css" id="d80000"style="background:#d80000; width:20px; height:20px;"></div></a><a href="#" title="Orange"><div class="color_css" id="E5493A"style="background:#E5493A; width:20px; height:20px;"></div></a><a href="#" title="Pink"><div class="color_css" id="E22467"style="background:#E22467; width:20px; height:20px;"></div></a><a href="#" title="Sun"><div class="color_css" id="f5a823"style="background:#f5a823; width:20px; height:20px;"></div></a><a href="#" title="GreenTea"><div class="color_css" id="9dc032"style="background:#9dc032; width:20px; height:20px;"></div></a><a href="#" title="Torquze"><div class="color_css" id="32b4c0"style="background:#32b4c0; width:20px; height:20px;"></div></a></div><div class="ievent-styleswitcher-section patterns clearfix"><strong>Patterns for Boxed Version</strong><a href="#" title="bg1"><div class="bg2"></div></a><a href="#" title="bg2"><div class="bg17"></div></a><a href="#" title="bg3"><div class="bg3"></div></a><a href="#" title="bg4"><div class="bg4"></div></a><a href="#" title="bg5"><div class="bg5"></div></a><a href="#" title="bg6"><div class="bg6"></div></a><a href="#" title="bg7"><div class="bg7"></div></a><a href="#" title="bg8"><div class="bg8"></div></a><a href="#" title="bg9"><div class="bg9"></div></a><a href="#" title="bg10"><div class="bg10"></div></a><a href="#" title="bg11"><div class="bg11"></div></a><a href="#" title="bg12"><div class="bg12"></div></a><a href="#" title="bg13"><div class="bg13"></div></a><a href="#" title="bg14"><div class="bg14"></div></a><a href="#" title="bg15"><div class="bg15"></div></a></div><div class="ievent-styleswitcher-section patterns clearfix last"><strong>Images for Boxed Version</strong><a href="#" title="bg_demo1" class="fullimage"><div class="bg_demo1_thumb"></div></a><a href="#" title="bg_demo2" class="fullimage"><div class="bg_demo2_thumb"></div></a><a href="#" title="bg_demo3" class="fullimage"><div class="bg_demo3_thumb"></div></a><a href="#" title="bg_demo4" class="fullimage"><div class="bg_demo4_thumb"></div></a><a href="#" title="bg_demo5" class="fullimage"><div class="bg_demo5_thumb"></div></a><a href="#" title="bg_demo6" class="fullimage"><div class="bg_demo6_thumb"></div></a><a href="#" title="bg_demo7" class="fullimage"><div class="bg_demo7_thumb"></div></a><a href="#" title="bg_demo8" class="fullimage"><div class="bg_demo8_thumb"></div></a><a href="#" title="bg_demo9" class="fullimage"><div class="bg_demo9_thumb"></div></a></div></div></div>');
+		
+		
+		$h.append('<style type="text/css">.bg0,.bg10,.bg11,.bg12,.bg13,.bg14,.bg15,.bg16,.bg17,.bg18,.bg2,.bg3,.bg4,.bg5,.bg6,.bg7,.bg8,.bg9,.bg_demo1_thumb,.bg_demo2_thumb,.bg_demo3_thumb,.bg_demo4_thumb,.bg_demo5_thumb,.bg_demo6_thumb,.bg_demo7_thumb,.bg_demo8_thumb,.bg_demo9_thumb{background:url(http://janxcode.com/ievent/images/background_setting_sprite.png) no-repeat}.bg4{background-position:-51px 0;width:19px;height:19px;border:1px solid #999}.bg0{background-position:0 0;width:19px;height:19px;border:1px solid #999}.bg2{background-position:-95px -1px;width:19px;height:19px;border:1px solid #999}.bg3{background-position:-145px 0;width:19px;height:19px;border:1px solid #999}.bg5{background-position:-196px 0;width:19px;height:19px;border:1px solid #999}.bg6{background-position:-250px -1px;width:19px;height:19px;border:1px solid #999}.bg7{background-position:-299px 0;width:19px;height:19px;border:1px solid #999}.bg8{background-position:-345px -1px;width:19px;height:19px;border:1px solid #999}.bg12{background-position:-394px -3px;width:19px;height:19px;border:1px solid #999}.bg9{background-position:-447px -1px;width:19px;height:19px;border:1px solid #999}.bg10{background-position:-498px 0;width:19px;height:19px;border:1px solid #999}.bg11{background-position:-550px -3px;width:19px;height:19px;border:1px solid #999}.bg13{background-position:-602px -3px;width:19px;height:19px;border:1px solid #999}.bg14{background-position:-2px -50px;width:19px;height:19px;border:1px solid #999}.bg15{background-position:-48px -50px;width:19px;height:19px;border:1px solid #999}.bg16{background-position:-95px -50px;width:19px;height:19px;border:1px solid #999}.bg18{background-position:-146px -51px;width:19px;height:19px;border:1px solid #999}.bg17{background-position:-198px -53px;width:19px;height:19px;border:1px solid #999}.bg_demo9_thumb{background-position:-1px -102px;width:19px;height:19px;border:1px solid #999}.bg_demo1_thumb{background-position:-599px -53px;width:19px;height:19px;border:1px solid #999}.bg_demo2_thumb{background-position:-548px -55px;width:19px;height:19px;border:1px solid #999}.bg_demo3_thumb{background-position:-500px -52px;width:19px;height:19px;border:1px solid #999}.bg_demo4_thumb{background-position:-451px -55px;width:19px;height:19px;border:1px solid #999}.bg_demo5_thumb{background-position:-402px -52px;width:19px;height:19px;border:1px solid #999}.bg_demo6_thumb{background-position:-352px -50px;width:19px;height:19px;border:1px solid #999}.bg_demo7_thumb{background-position:-301px -50px;width:19px;height:19px;border:1px solid #999}.bg_demo8_thumb{background-position:-252px -51px;width:19px;height:19px;border:1px solid #999}#loginform p{margin:10px 0 0;padding:0}.login_new_registration{margin-top:-45px;text-align:right}.login_new_registration a:hover{color:#CCC}#ievent-styleswitcher{position:fixed;z-index:99999;top:120px;left:-240px!important;width:240px}.ievent-styleswitcher-toogle{float:right;background:#333;width:52px;height:52px;margin-right:-50px;border-radius:0 5px 5px 0;padding-top:15px;font-size:23px;color:#fff;cursor:pointer;-webkit-box-shadow:0 0 5px 0 rgba(0,0,0,.2);box-shadow:0 0 5px 0 rgba(0,0,0,.2);text-align:center}.ievent-styleswitcher-head{background:#333;color:#fff;padding:18px 20px;margin-right:0;font-size:18px;font-weight:700;cursor:pointer;position:relative;z-index:1;height:52px}.ievent-styleswitcher-body{background:#f1f1f1;-webkit-border-radius:0 0 3px;border-radius:0 0 3px;color:#fff;-webkit-box-shadow:0 0 5px 0 rgba(0,0,0,.2);box-shadow:0 0 5px 0 rgba(0,0,0,.2);position:relative;z-index:0}.ievent-styleswitcher-section{padding:10px 25px 20px;border-bottom:1px dashed #666;margin-bottom:5px}.ievent-styleswitcher-section.last{border:none;color:#333}.ievent-styleswitcher-section select{background:#555;color:#fff;margin:0;padding:6px}.ievent-styleswitcher-section a{float:left;margin:10px 5px 0}.ievent-styleswitcher-section a img{display:block;width:20px;height:20px;border:2px solid #999}.ievent-styleswitcher-body strong{display:block;margin-bottom:10px}.previewoptions{color:#ccc;font-size:11px;line-height:19px}.ievent-styleswitcher-section .color_css{padding:5px;border:2px solid #999;width:37px!important;height:37px!important}@media only screen and (max-width:767px){#ievent-styleswitcher{display:none}}@media only screen and (max-width:1000px){#boxed-layout #header,#boxed-layout #header-v2 #navigation,#boxed-layout #header-v3,#boxed-layout #header-v4 #navigation,#boxed-layout #header-v5 #navigation,#boxed-layout #header-v6{width:100%!important}}.fa-gear-animate{animation:rotation 2s infinite steps(30);-webkit-animation:rotation 2s infinite steps(30);-moz-animation:rotation 2s infinite steps(30)}@keyframes rotation{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@-webkit-keyframes rotation{0%{-webkit-transform:rotate(0)}100%{-webkit-transform:rotate(360deg)}}@-moz-keyframes rotation{0%{-moz-transform:rotate(0)}100%{-moz-transform:rotate(360deg)}}</style>');
+		
+	if(jQuery.cookie("css")) {
+		jQuery("#skin").attr("href",jQuery.cookie("css"));
+	}
+	
+	if(jQuery.cookie("body-layout")) {
+		if(jQuery.cookie("body-layout") == 'boxed') {
+			$b.addClass('boxed');			
+			$b.css('background', 'url(http://janxcode.com/ievent/images/bg/bg12.png) repeat fixed center center transparent');
+			$b.css('background-size', 'auto');
+			$w.resize();
+			
+		}else if(jQuery.cookie("body-layout") == 'Wide') {
+			$b.removeClass('boxed');
+			$w.resize();			
+		}
+		
+	}
+			
+	var i=0;
+	jQuery('#ievent-styleswitcher .toggle-switchme').click(function(){	
+	if (i==0){ 
+		jQuery(this).parent().animate({'left' : '240px'}, 300, 'easeOutExpo');
+		i=1;
+	}else{
+		jQuery(this).parent().animate({'left' : '0px'}, 300, 'easeOutExpo');
+		i=0;		
+	}
+	});
+	
+	jQuery('#ievent-styleswitcher select[name=layout]').change(function() {
+		var current = $(this).find('option:selected').val();
+		
+
+		if(current == 'Boxed') {
+			$b.addClass('boxed');			
+			$b.css('background', 'url(http://janxcode.com/ievent/images/bg/bg12.png) repeat fixed center center transparent');
+			$b.css('background-size', 'auto');
+			$w.resize();
+			jQuery.cookie("body-layout","boxed", {expires: 365, path: '/'});
+			
+		}else if(current == 'Wide') {
+			$b.removeClass('boxed');
+			jQuery.cookie("body-layout","wide", {expires: 365, path: '/'});			
+			$w.resize();			
+		}
+
+	});
+	
+	jQuery('.patterns a').click(function() {
+		var current = jQuery('#ievent-styleswitcher select[name=layout]').find('option:selected').val();
+
+		if(current == 'Boxed') {
+			
+			var pattern = jQuery(this).attr('title');
+			
+			if(jQuery(this).hasClass('fullimage')) {
+				$b.css('background', 'url(http://janxcode.com/ievent/images/bg-image/'+pattern+'.jpg) no-repeat center center fixed');
+				$b.css('background-size', 'cover');
+			} else {
+				$b.css('background', 'url(http://janxcode.com/ievent/images/bg/'+pattern+'.png) repeat center center fixed');
+				$b.css('background-size', 'auto');
+			}
+		}else {
+		alert('Please select Boxed Layout');
+		}
+	});
+
+	//Color Skin Switcher
+	
+	jQuery('.color_css').click(function(e) {
+	
+	var color = jQuery(this).attr('id');
+      
+	  if (color == "3ea7d7") {
+      var skin_link="http://janxcode.com/ievent/css/skins/blue.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;   
+	  }
+	  
+	  if (color == "1DA879") {
+      var skin_link="http://janxcode.com/ievent/css/skins/green.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;      
+	  }
+	  
+	  if (color == "d80000") {
+      var skin_link="http://janxcode.com/ievent/css/skins/red.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;      
+	  }
+	  
+	  if (color == "E5493A") {
+      var skin_link="http://janxcode.com/ievent/css/skins/orange.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;      
+	  }
+	  
+	  if (color == "E22467") {
+      var skin_link="http://janxcode.com/ievent/css/skins/pink.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;    
+	  }
+	  
+	  if (color == "f5a823") {
+      var skin_link="http://janxcode.com/ievent/css/skins/sun.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;     
+	  }
+	  
+	  if (color == "9dc032") {
+      var skin_link="http://janxcode.com/ievent/css/skins/greentea.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;   
+	  }
+	  
+	  if (color == "32b4c0") {
+      var skin_link="http://janxcode.com/ievent/css/skins/torquze.css";
+	  jQuery('#skin').attr('href', skin_link);
+      $b.css('background-color',color);
+	  jQuery.cookie("css",skin_link, {expires: 365, path: '/'});
+	  return false;    
+	  }
+	
+	 });  
+		
+		}		
 
 	};
 
