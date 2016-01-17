@@ -2172,7 +2172,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
                                                     <li><i class="fa fa-chevron-right"></i>Easy Access</li>            
-                                                    <li><i class="fa fa-chevron-right"></i>Printed Materials</li>
+                                                   <!-- <li><i class="fa fa-chevron-right"></i>Printed Materials</li> -->
                                                 </ul>
                                             </div>                        
                                         </div>
@@ -2186,7 +2186,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
                                                     <li><i class="fa fa-chevron-right"></i>Easy Access</li>            
-                                                    <li><i class="fa fa-chevron-right"></i>Printed Materials</li>
+                                                   <!-- <li><i class="fa fa-chevron-right"></i>Printed Materials</li>-->
                                                 </ul>
                                             </div>                        
                                         </div>
@@ -2280,7 +2280,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                                 <ul>            
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
                                                     <li><i class="fa fa-chevron-right"></i>Easy Access</li>            
-                                                    <li><i class="fa fa-chevron-right"></i>Printed Materials</li>
+                                                  <!--  <li><i class="fa fa-chevron-right"></i>Printed Materials</li>-->
                                                 </ul>
                                             </div>                        
                                         </div>
@@ -2294,7 +2294,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                                 <ul>           
                                                     <li><i class="fa fa-chevron-right"></i>Conference Tickets</li>            
                                                     <li><i class="fa fa-chevron-right"></i>Easy Access</li>            
-                                                    <li><i class="fa fa-chevron-right"></i>Printed Materials</li>
+                                                  <!--  <li><i class="fa fa-chevron-right"></i>Printed Materials</li>-->
                                                 </ul>
                                             </div>                        
                                         </div>
