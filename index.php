@@ -774,9 +774,9 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
 					
-				<div class="item"> 					  
+					<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/kenny_jenny.jpg" alt=""></div>
+					<div class="image"><img src="/images/joey_zuleika.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -784,17 +784,22 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span> </span> <i class="fa fa-microphone"></i> <span>Kenny & Jenny Henao</span></div>
-							<div class="title" data-control>Live</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joey & Zuleika Torres</span></div>
+							<div class="title" data-control>Laugh</div>                        
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>With all the business of this world, sometimes it feelslike life is flying by. In this sessionyou'll learn to "LIVE" again and bring a fresh new "life" into your marriage.</p></div>
+								<div class="content"><p>Marriage was meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
 					</div>
 				</div>					
+			
+				
+				
+				
+									
 				<!-- Item # 1 --> 
 							<?php /*
 			
@@ -1027,7 +1032,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Marriagewas meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
+								<div class="content"><p>Marriage was meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1247,28 +1252,29 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
-			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/joey_zuleika.jpg" alt=""></div>
+					<div class="image"><img src="/images/kenny_jenny.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
 					
 					<div class="right-position">
-					
+														
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joey & Zuleika Torres</span></div>
-							<div class="title" data-control>Laugh</div>                        
+							<div class="date"><i class="fa fa-clock-o"></i> <span> </span> <i class="fa fa-microphone"></i> <span>Kenny & Jenny Henao</span></div>
+							<div class="title" data-control>Live</div>                        
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Laugh description ... Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>With all the business of this world, sometimes it feelslike life is flying by. In this sessionyou'll learn to "LIVE" again and bring a fresh new "life" into your marriage.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
 					</div>
-				</div>					
+				</div>
+			
+			
 				<!-- Item # 1 --> 
 				
 					<?php /*
@@ -2268,7 +2274,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-price">50<span>.00</br>per couple</span></div>            
                                             <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
@@ -2282,7 +2288,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
-                                            <div class="jx-price">50<span>.00</span></div>            
+                                            <div class="jx-price">50<span>.00</br>per couple</span></div>            
                                             <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
