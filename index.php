@@ -2431,16 +2431,13 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item grid-item-height2 grid-item-width2">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/033-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/010-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
                     
-                       <?php /* 
-                       <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/330.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/010.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
-                        <!--Image Hover --> 
-                        */ php>
-                        
+                        <!--Image Hover -->
                     </div>                        
                 </div>
                 
@@ -2465,22 +2462,22 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/037-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/024-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/037.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/024.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/029-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/033-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/029.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/033.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2529,11 +2526,11 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                 </div>
                 
                 <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/024-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/037-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="/images/024.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="/images/037.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
