@@ -789,7 +789,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Marriage was meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
+								<div class="content"><p>Marriage was meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this session you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1158,7 +1158,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted its true meaning. In this session you'll learn what loveis, how to truly love, and what it takes to keep love in your marriageforever.</p></div>
+								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted it's true meaning. In this session you'll learn what love is, how to truly love, and what it takes to keep love in your marriage forever.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1267,7 +1267,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>With all the business of this world, sometimes it feelslike life is flying by. In this sessionyou'll learn to "LIVE" again and bring a fresh new "life" into your marriage.</p></div>
+								<div class="content"><p>With all the business of this world, sometimes it feels like life is flying by. In this session you'll learn to "LIVE" again and bring a fresh new "life" into your marriage.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -2860,7 +2860,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
     <script type="text/javascript" src="vendor/jquery.appear.js"></script>    
     <script type="text/javascript" src="vendor/prettyPhoto/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" src="vendor/flexslider/jquery.flexslider.js"></script> 
-    <script type="text/javascript" src="vendor/form-validator/jquery.form-validator.min.js"></script>	
+   <!-- <script type="text/javascript" src="vendor/form-validator/jquery.form-validator.min.js"></script>	 -->
      
    
     <!-- Theme Initializer -->
