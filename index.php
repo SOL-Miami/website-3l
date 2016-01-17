@@ -784,7 +784,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joey & Zuleika Torres</span></div>
+							<! --<div class="date"><i class="fa fa-clock-o"></i> <span> </span> --><i class="fa fa-microphone"></i> <span>Joey & Zuleika Torres</span></div>
 							<div class="title" data-control>Laugh</div>                        
 							<!-- Title -->
 							
@@ -1032,7 +1032,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Marriage was meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
+								<div class="content"><p>NOT THIS ONE...Marriage was meant to be enjoyed! But how can we "LAUGH" together if we're going through so much? In this sessiony you'll learn how together you can face whatever comes your way and even enjoy every season of life.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1153,7 +1153,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
+							<! --<div class="date"><i class="fa fa-clock-o"></i> <span> </span> --><i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
 							<div class="title" data-control>Love</div>                        
 							<!-- Title -->
 							
@@ -1262,7 +1262,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 														
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span> </span> <i class="fa fa-microphone"></i> <span>Kenny & Jenny Henao</span></div>
+							<! --<div class="date"><i class="fa fa-clock-o"></i> <span> </span> --> <i class="fa fa-microphone"></i> <span>Kenny & Jenny Henao</span></div>
 							<div class="title" data-control>Live</div>                        
 							<!-- Title -->
 							
