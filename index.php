@@ -2160,7 +2160,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                     <li data-type="standard" class="is-visible">
                                         
                                         <div class="one-third columns jx-price-item">            
-                                            <div class="jx-price">40<span>.00 per couple</span></div>            
+                                            <div class="jx-price">40<span>.00</br>per couple</span></div>            
                                             <div class="jx-package-name jx-uppercase">Early Bird</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>            
@@ -2174,7 +2174,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                             
                                     <li data-type="vip" class="is-hidden">                        
                                         <div class="one-third columns jx-price-item jx-white">            
-                                            <div class="jx-price">50<span>.00 per couple</span></div>            
+                                            <div class="jx-price">50<span>.00</br>per couple</span></div>            
                                             <div class="jx-package-name jx-uppercase">Standard</div>            
                                             <div class="jx-package-feature">            
                                                 <ul>           
@@ -2434,10 +2434,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="/images/033-400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
                     
 
-                       <div class="jx-image-overlayer"></div>
+            <!--           <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a herf="/images/330.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
+                        </div> -->
                         <!--Image Hover --> 
                         
                     </div>                        
