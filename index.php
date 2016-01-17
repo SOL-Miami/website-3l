@@ -533,10 +533,10 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                     </div>
                     <!-- Item Content Box-->			
                     <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/joaquin_ivette.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                        <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="/images/joaquin_yvette.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Joaquin & Ivette Molina</div>
+                                <div class="jx-speaker-name">Joaquin & Yvette Molina</div>
                                 <div class="jx-speaker-pos">Sr. Pastors</div>
                             </div>
                         </div>
@@ -592,7 +592,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                         <div class="jx-speaker-photo jx-image-wrapper"><img width="234" height="189" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5-234x189.jpg" class="attachment-speaker-image wp-post-image" alt="team-5" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Joaquin & Ivette Molina</div>
+                                <div class="jx-speaker-name">Joaquin & Yvette Molina</div>
                                 <div class="jx-speaker-pos">Sr. Pastors</div>
                             </div>
                         </div>
@@ -883,7 +883,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 				<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/joaquin_ivette.jpg" alt=""></div>
+					<div class="image"><img src="/images/joaquin_yvette.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -891,7 +891,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
+							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joaquin & Yvette Molina</span></div>
 							<div class="title" data-control>Love</div>                        
 							<!-- Title -->
 							
@@ -1145,7 +1145,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			
 					<div class="item"> 					  
 					<div class="left-position">
-					<div class="image"><img src="/images/joaquin_ivette.jpg" alt=""></div>
+					<div class="image"><img src="/images/joaquin_yvette.jpg" alt=""></div>
 					<!-- Image -->
 					</div>
 					<!-- Left item Position -->
@@ -1153,12 +1153,12 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					<div class="right-position">
 					
 						<div data-accordion class="head open">
-							<div class="date"><i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
+							<div class="date"><i class="fa fa-microphone"></i> <span>Joaquin & Yvette Molina</span></div>
 							<div class="title" data-control>Love</div>                        
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted it's true meaning. In this session you'll learn what love is, how to truly love, and what it takes to keep love in your marriage forever.</p></div>
+								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted its true meaning. In this session you'll learn what love is, how to truly love, and what it takes to keep love in your marriage forever.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
