@@ -761,9 +761,9 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 				 <div id="ChildTab-1">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<li><div class="jx-tab-title">Live</div></li>
+						<!--<li><div class="jx-tab-title">Live</div></li> -->
 						<!--<li><div class="jx-tab-title">Love</div></li> -->
-						<!--<li><div class="jx-tab-title">Laugh</div></li> -->
+						<li><div class="jx-tab-title">Laugh</div></li>
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                         
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -896,7 +896,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted its true meaning. In this session you'll learn what loveis, how to truly love, and what it takes to keep love in your marriageforever.</p></div>
+								<div class="content"><p>NOT THIS ONE....What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted its true meaning. In this session you'll learn what loveis, how to truly love, and what it takes to keep love in your marriageforever.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
@@ -1130,9 +1130,9 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 				 <div id="ChildTab-2">
 					
 					<ul class="resp-tabs-list jx-subtab childtab_1">
-						<!--<li><div class="jx-tab-title">Live</div></li>-->
+						<li><div class="jx-tab-title">Live</div></li>
 						<li><div class="jx-tab-title">Love</div></li>
-						<li><div class="jx-tab-title">Laugh</div></li>
+						<!--<li><div class="jx-tab-title">Laugh</div></li>-->
 						<!-- <li><div class="jx-tab-title">Conference 4</div></li>   -->                       
 					</ul>                            
 					<!-- EOF Child Tab Head -->
@@ -1143,7 +1143,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			<div>
 				<div data-accordion-group class="jx-accordion-box">
 			
-				<div class="item"> 					  
+					<div class="item"> 					  
 					<div class="left-position">
 					<div class="image"><img src="/images/joaquin_ivette.jpg" alt=""></div>
 					<!-- Image -->
@@ -1154,16 +1154,16 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 					
 						<div data-accordion class="head open">
 							<div class="date"><i class="fa fa-clock-o"></i> <span></span> <i class="fa fa-microphone"></i> <span>Joaquin & Ivette Molina</span></div>
-							<div class="title" data-control>Lovley rem ipsum dolor sit amet, consectetuer adipiscing elit</div>                        
+							<div class="title" data-control>Love</div>                        
 							<!-- Title -->
 							
 							<div data-content>
-								<div class="content"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p></div>
+								<div class="content"><p>What does it really mean to "LOVE" your spouse? Our society has taken the word love and twisted its true meaning. In this session you'll learn what loveis, how to truly love, and what it takes to keep love in your marriageforever.</p></div>
 							</div>
 							<!-- Content -->
 						</div>							
 					</div>
-				</div>					
+				</div>							
 				<!-- Item # 1 --> 
 			
 			<?php /*
