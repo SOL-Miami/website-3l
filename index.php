@@ -2860,7 +2860,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
     <script type="text/javascript" src="vendor/jquery.appear.js"></script>    
     <script type="text/javascript" src="vendor/prettyPhoto/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" src="vendor/flexslider/jquery.flexslider.js"></script> 
-   <!-- <script type="text/javascript" src="vendor/form-validator/jquery.form-validator.min.js"></script>	 -->
+    <script type="text/javascript" src="vendor/form-validator/jquery.form-validator.min.js"></script>	
      
    
     <!-- Theme Initializer -->

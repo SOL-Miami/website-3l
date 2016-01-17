@@ -60,8 +60,8 @@ Version: 		1.0
 			//Bouncy 
 			this.bouncy();			
 		
-			//Theme Styler
-			this.themestyler();
+			//Theme Styler  HMG DISABLED IT SO THAT THE MENU DOESNT APPEAR
+			//this.themestyler();
 
 		},
 
