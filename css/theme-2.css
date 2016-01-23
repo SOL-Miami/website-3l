@@ -1737,7 +1737,15 @@ font-size:32px;
 .jx-event-box {
     position: absolute;
     left: 53px;
-	top: 130px;
+    top: 330px;
+    z-index: 9;
+    width: 100%;
+}
+
+.jx-event-box .video {
+    position: absolute;
+    left: 53px;
+    top: 130px;
     z-index: 9;
     width: 100%;
 }
