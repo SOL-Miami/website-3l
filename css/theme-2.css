@@ -1737,19 +1737,10 @@ font-size:32px;
 .jx-event-box {
     position: absolute;
     left: 53px;
-	top: 330px;
+	top: 130px;
     z-index: 9;
     width: 100%;
 }
-
-.hector-jx-event-box {
-    position: absolute;
-    left: 53px;
-	top: 100px;
-    z-index: 9;
-    width: 100%;
-}
-
 
 .jx-event-box .jx-event-date{
   background:rgba(238, 22, 58, 0.9);
