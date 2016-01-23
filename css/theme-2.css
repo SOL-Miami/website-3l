@@ -1727,14 +1727,6 @@ font-size:32px;
     width: 100%;
 }
 
-.video {
-    position: absolute;
-    left: 53px;
-    top: 130px;
-    z-index: 9;
-    width: 100%;
-}
-
 /*.jx-event-box{
   position: absolute;
   top: 370px;
