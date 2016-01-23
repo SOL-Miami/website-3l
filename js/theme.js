@@ -617,7 +617,7 @@ Version: 		1.0
 		},
 		themestyler: function(){
 
-
+		
 		}
 
 	};
