@@ -2808,7 +2808,7 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
                                                            <!-- <li><a href="http://www.youtube.com/ievent"><i class="fa fa-youtube"></i></a></li>-->
                                                            <!-- <li><a href="http://www.googleplus.com/ievent"><i class="fa fa-google-plus"></i></a></li> -->
                                                            <!-- <li><a href="http://www.dribbble.com/ievent"><i class="fa fa-dribbble"></i></a></li> -->
-                                                            <li><a href="https://www.instagram.com/solfellowship/"><i class="fa fa-instagram"></i></a></li>
+                                                            <li><a href="https://www.instagram.com/saveyourmarriage/"><i class="fa fa-instagram"></i></a></li>
                                                           <!--  <li><a href="http://www.pinterest.com/ievent"><i class="fa fa-pinterest"></i></a></li> -->
                                                           <!--  <li><a href="http://www.flickr.com/ievent"><i class="fa fa-flickr"></i></a></li> -->
                                     </ul>
