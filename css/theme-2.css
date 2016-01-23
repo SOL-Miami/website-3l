@@ -1721,9 +1721,19 @@ font-size:32px;
   width: 100%;
   }
 */
+
 .jx-slider-content {
     position: relative;
     top: 0px;
+    width: 100%;
+}
+
+
+.video {
+    position: absolute;
+    left: 53px;
+    top: 130px;
+    z-index: 9;
     width: 100%;
 }
 
@@ -1738,14 +1748,6 @@ font-size:32px;
     position: absolute;
     left: 53px;
     top: 330px;
-    z-index: 9;
-    width: 100%;
-}
-
-.jx-event-box .video {
-    position: absolute;
-    left: 53px;
-    top: 130px;
     z-index: 9;
     width: 100%;
 }
