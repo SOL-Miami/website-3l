@@ -200,12 +200,12 @@
                     	<div class="jx-event-slide">
                             <div class="jx-slider-content">
                             	<div class="container">
-                                    <div class="jx-event-box">
+                                    
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
                                         
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
-                                        
-                                        
-                                        <!--<div class="jx-event-play">
+                                    <!--<div class="jx-event-box">
+                                                                                                                       
+                                        <div class="jx-event-play">
                                             <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
                                         </div>
                                         <div class="jx-event-title-box">
@@ -213,8 +213,8 @@
                                             <div class="jx-event-title">Spring Of Life Fellowship</div>
                                             <div class="jx-event-location">Doral, Florida</div>
                                         </div>
-										-->
-                                    </div>
+										
+                                    </div>-->
                                 </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date">
@@ -705,14 +705,12 @@ Through challenging, in depth, interactive, powerful Bible studies marriages and
 			<ul class="resp-tabs-list parenttab_1">
 
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">Feb</div>
-					<div class="jx-tab-day jx-uppercase">12</div>
+					<div class="jx-tab-date jx-uppercase">Feb 12</div>
 					<div class="jx-tab-day jx-uppercase">7:00 PM</div>
 				</li>
 
 				<li class="resp-tab-item">
-					<div class="jx-tab-date jx-uppercase">Feb</div>
-					<div class="jx-tab-day jx-uppercase">13</div>
+					<div class="jx-tab-date jx-uppercase">Feb 13</div>
 					<div class="jx-tab-day jx-uppercase">9:00 AM - 4:00PM </div>
 				</li>
 
