@@ -200,12 +200,11 @@
                     	<div class="jx-event-slide">
                             <div class="jx-slider-content">
                             	<div class="container">
-                                    
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
+                                    <!--<div class="jx-event-box">-->
                                         
-                                    <!--<div class="jx-event-box">
-                                                                                                                       
-                                        <div class="jx-event-play">
+                                       <iframe width="853" height="480" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
+                                                                                
+                                        <!--<div class="jx-event-play">
                                             <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
                                         </div>
                                         <div class="jx-event-title-box">
@@ -213,8 +212,8 @@
                                             <div class="jx-event-title">Spring Of Life Fellowship</div>
                                             <div class="jx-event-location">Doral, Florida</div>
                                         </div>
-										
-                                    </div>-->
+										-->
+                                    </div>
                                 </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date">
