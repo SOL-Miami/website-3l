@@ -200,10 +200,9 @@
                     	<div class="jx-event-slide">
                             <div class="jx-slider-content">
                             	<div class="container">
-									  
-                                    <div class="video">
-									    
-                                  <iframe width="1200" height="675" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
+                                    <div class="jx-event-box">
+										
+										<iframe width="1200" height="675" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
                                                                             
                                         <!--<div class="jx-event-play">
                                             <a href="" data-rel="prettyPhoto"><i class="fa fa-play"></i></a>
@@ -214,7 +213,7 @@
                                             <div class="jx-event-location">Doral, Florida</div>
                                         </div>
 										-->
-										</div>
+                                    </div>
                                 </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date">
