@@ -61,7 +61,7 @@ Version: 		1.0
 			this.bouncy();
 
 			//Theme Styler
-			this.themestyler();
+		//	this.themestyler();
 
 		},
 
