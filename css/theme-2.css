@@ -1743,7 +1743,11 @@ font-size:32px;
 }
 
 .jx-event-box .video{
-    top: -500px;
+    position: absolute;
+	left: -53px;
+	top: -170px;
+	z-index: 9;
+	width: 100%;
 }
 
 .jx-event-box .jx-event-date{
