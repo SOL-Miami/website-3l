@@ -200,7 +200,9 @@
                     	<div class="jx-event-slide">
                             <div class="jx-slider-content">
                             	<div class="container">
-                                    <div class="jx-event-box" top: 130px; >
+                                    <!--<div class="jx-event-box" top: 130px; >-->
+										<div position: absolute;  left: 53px; top: 100px;  z-index: 9; width: 100%; >
+                                    
                                         
                                   <iframe width="1200" height="675" src="https://www.youtube.com/embed/hW097luAbes" frameborder="0" allowfullscreen></iframe>
                                                                             
