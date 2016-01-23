@@ -1721,13 +1721,11 @@ font-size:32px;
   width: 100%;
   }
 */
-
 .jx-slider-content {
     position: relative;
     top: 0px;
     width: 100%;
 }
-
 
 .video {
     position: absolute;
@@ -1747,7 +1745,7 @@ font-size:32px;
 .jx-event-box {
     position: absolute;
     left: 53px;
-    top: 330px;
+	top: 330px;
     z-index: 9;
     width: 100%;
 }
