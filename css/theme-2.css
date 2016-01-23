@@ -1734,6 +1734,14 @@ font-size:32px;
   z-index: 9;
 }*/
 
+.video {
+    position: absolute;
+    left: 53px;
+	top: 170px;
+    z-index: 9;
+    width: 100%;
+}
+
 .jx-event-box {
     position: absolute;
     left: 53px;
